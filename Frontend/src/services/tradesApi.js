@@ -10,7 +10,7 @@ async function readApiResponse(response) {
 
 export async function fetchTrades({ page = 1, limit = 10, search = '', symbol = '' } = {}) {
   const query = new URLSearchParams({ page, limit, search, symbol })
-  const response = await fetch(`${API}?${query}`)
+  const response = await fetch(`/getTrades?${query}`)
   const result = await readApiResponse(response)
   if (!response.ok) throw new Error(result.message || 'Could not load trades')
   const data = Array.isArray(result) ? { trades: result } : result

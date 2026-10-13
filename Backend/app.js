@@ -3,13 +3,13 @@ import express from "express";
 import connectDB from "./lib/db_connect.js";
 import tradeRoutes from "./Routes/traderoute.js";
 import { startPullWorker } from "./lib/pull_worker.js";
-import { getMockBseTrades } from "./Controller/trade.js";
+import { getTrades } from "./Controller/trade.js";
 
 const app = express();
 
 app.use(express.json());
 app.use("/api/trades", tradeRoutes);
-app.get("/getTrades", getMockBseTrades);
+app.get("/getTrades", getTrades);
 
 app.get("/api/health", (_req, res) => {
   res.json({ status: "ok" });

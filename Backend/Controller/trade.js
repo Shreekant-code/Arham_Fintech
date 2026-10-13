@@ -1,10 +1,10 @@
 import Trade from "../Schema/tradeschema.js";
-import { getMockTrades } from "../lib/mock_exchange.js";
 import { createPull } from "../lib/pull_worker.js";
-import { subscribe } from "../lib/pull_events.js";
+import { getLatestEventId, subscribe } from "../lib/pull_events.js";
 
 export const getTrades = async (req, res) => {
   try {
+    const paginated = req.query.page !== undefined || req.query.limit !== undefined;
     const page = Math.max(1, Number(req.query.page) || 1);
     const limit = Math.min(100, Math.max(1, Number(req.query.limit) || 10));
     const search = String(req.query.search || "").trim();
@@ -16,8 +16,11 @@ export const getTrades = async (req, res) => {
     }
     if (symbol) filter.symbol = symbol;
 
+    const tradesQuery = Trade.find(filter).sort({ timestamp: -1 });
+    if (paginated) tradesQuery.skip((page - 1) * limit).limit(limit);
+
     const [trades, total, summaryRows] = await Promise.all([
-      Trade.find(filter).sort({ timestamp: -1 }).skip((page - 1) * limit).limit(limit).lean(),
+      tradesQuery.lean(),
       Trade.countDocuments(filter),
       Trade.aggregate([{ $group: {
         _id: null,
@@ -28,12 +31,13 @@ export const getTrades = async (req, res) => {
       } }]),
     ]);
     const summary = summaryRows[0] || { total: 0, clients: [], symbols: [], tradeValue: 0 };
+    const responseLimit = paginated ? limit : total;
     res.json({
       trades,
       page,
-      limit,
+      limit: responseLimit,
       total,
-      totalPages: Math.ceil(total / limit),
+      totalPages: responseLimit ? Math.ceil(total / responseLimit) : 0,
       summary: {
         total: summary.total,
         uniqueClients: summary.clients.length,
@@ -45,10 +49,6 @@ export const getTrades = async (req, res) => {
   } catch {
     res.status(500).json({ message: "Could not load trades" });
   }
-};
-
-export const getMockBseTrades = (_req, res) => {
-  res.json({ trades: getMockTrades() });
 };
 
 export const createTradePull = (req, res) => {
@@ -63,18 +63,24 @@ export const createTradePull = (req, res) => {
   res.status(202).json(createPull({ batchSize, delayMs }));
 };
 
-export const tradeEvents = (_req, res) => {
+export const tradeEvents = (req, res) => {
   res.set({
     "Content-Type": "text/event-stream",
     "Cache-Control": "no-cache, no-transform",
     Connection: "keep-alive",
   });
   res.flushHeaders();
-  res.write(`event: connected\ndata: ${JSON.stringify({ connected: true })}\n\n`);
-  const unsubscribe = subscribe(({ type, data }) => {
-    res.write(`event: ${type}\ndata: ${JSON.stringify(data)}\n\n`);
-  });
-  const heartbeat = setInterval(() => res.write(": keep-alive\n\n"), 20000);
+  res.write("retry: 1000\n\n");
+  const currentEventId = getLatestEventId();
+  const headerEventId = req.get("Last-Event-ID");
+  const lastEventId = headerEventId === undefined ? currentEventId : Number(headerEventId) || currentEventId;
+  res.write(`id: ${currentEventId}\nevent: connected\ndata: ${JSON.stringify({ connected: true })}\n\n`);
+  const unsubscribe = subscribe(({ id, type, data }) => {
+    res.write(`id: ${id}\nevent: ${type}\ndata: ${JSON.stringify(data)}\n\n`);
+  }, lastEventId);
+  const heartbeat = setInterval(() => {
+    if (!res.destroyed) res.write(": keep-alive\n\n");
+  }, 20000);
   res.on("close", () => {
     clearInterval(heartbeat);
     unsubscribe();

@@ -1,61 +1,87 @@
 # Architecture Note
 
-## Component Diagram
+## Diagram
+
+![Application architecture diagram](https://res.cloudinary.com/dtlessn0g/image/upload/v1791876129/Screenshot_2026-10-13_125148_e5hym2.png)
+
+## App Structure
+
+```text
+Backend/
+|-- app.js                    Express app and route registration
+|-- Controller/trade.js       Trade reads, pull requests, and SSE handler
+|-- Routes/traderoute.js      /api/trades routes
+|-- Schema/tradeschema.js     MongoDB trade model
+|-- data/
+|   |-- trades.json           Initial seed data (1,000 records)
+|   `-- mockExchangeTrades.json  Additional fixed exchange records
+`-- lib/
+    |-- db_connect.js          MongoDB connection
+    |-- seeddata.js            Loads trades.json into MongoDB
+    |-- mock_exchange.js       Supplies the next fixture batch
+    |-- pull_worker.js         Processes delayed pull jobs
+    `-- pull_events.js         Sends and briefly buffers SSE events
+
+Frontend/
+|-- src/pages/TradesDashboard.jsx  Dashboard page and state
+|-- src/components/                Header, summary, table, pull controls/status
+|-- src/services/tradesApi.js      HTTP and SSE calls
+|-- src/pages/*.css                Dashboard and responsive styles
+|-- public/                        Logo and public assets
+`-- vite.config.js                 Local development API proxy
+
+docs/architecture.md              This architecture note
+README.md                          Setup, endpoints, and assignment notes
+```
+
+## Request Flow
 
 ```mermaid
 flowchart LR
     Browser[React dashboard]
     API[Express API]
-    Queue[In-process job queue]
-    Worker[In-process pull worker]
-    Fixture[mockExchangeTrades.json]
     Mongo[(MongoDB)]
-    Events[SSE event subscribers]
+    Queue[In-process job queue]
+    Worker[Pull worker]
+    Fixture[mockExchangeTrades.json]
+    Events[SSE event stream]
 
-    Browser -->|GET /api/trades| API
-    API -->|read existing trades| Mongo
-    Mongo -->|trades and summary| API
-    API -->|JSON response| Browser
+    Browser -->|GET /getTrades| API
+    API -->|read saved trades and summary| Mongo
+    Mongo --> API
+    API -->|JSON| Browser
 
     Browser -->|POST /api/trades/pulls| API
-    API -->|enqueue job| Queue
-    API -->|return 202| Browser
+    API -->|202 Accepted and job ID| Browser
+    API --> Queue
     Queue --> Worker
     Worker -->|wait selected delay| Worker
-    Worker -->|next batch| Fixture
+    Worker -->|next unique records| Fixture
     Worker -->|insert batch| Mongo
     Worker -->|publish pull and trades events| Events
     Events -->|SSE| Browser
-
-    Client[External API client]
-    Client -->|GET /getTrades| API
-    API -->|return mock fixture| Fixture
 ```
 
-## Request and Background Processing
+## How a Pull Works
 
-`POST /api/trades/pulls` validates `batchSize` and `delayMs`, adds a job to a process-local array queue, starts the worker if needed, and immediately returns HTTP `202` with a job ID. The worker handles jobs sequentially. For each job it publishes a `waiting` event, waits for the requested delay, publishes `processing`, takes the next fixture records, and inserts them into MongoDB. It then publishes a `trades` event with the inserted records and count. Errors are reported as a `failed` pull event.
+`POST /api/trades/pulls` checks the batch size and delay, queues a job in memory, and responds with `202 Accepted`. The worker processes jobs in order, waits for the selected delay (up to 15 minutes), reads the next records from the separate exchange fixture, and inserts them into MongoDB. Existing dashboard reads continue while the worker waits.
 
-The worker starts waiting as soon as the job reaches the front of its queue. The POST request returns without waiting for that delay or the database insert. This avoids holding the pull request open during the 15-minute maximum delay and means a network timeout on that request does not cancel work already queued in the backend process.
+After a successful insert, the worker publishes an SSE `trades` event. The dashboard refreshes its current page and summary in response, without polling or a manual refresh. Pull progress is sent as `pull` events.
 
-## Existing Trades During a Pull
+## Routes
 
-The dashboard reads existing trades from MongoDB through `GET /api/trades`. A pull does not block this read route; the worker waits and later inserts its batch. Existing records remain visible during that wait. Once the insert succeeds, the dashboard receives the `trades` event and requests the current page and summary again.
+- `GET /getTrades` reads saved trades from MongoDB. It supports `page`, `limit`, `search`, and `symbol`; omitting `page` and `limit` returns all matching records. The dashboard uses this endpoint.
+- `GET /api/trades` is a compatibility alias for the same saved-trades handler.
+- `POST /api/trades/pulls` queues a delayed fixture pull.
+- `GET /api/trades/events` streams pull and trade events. The server keeps the latest 100 events in memory and replays events newer than the browser's `Last-Event-ID` after reconnect.
+- `GET /api/health` returns a small health response.
 
-`GET /getTrades` is a separate mock-exchange endpoint. It returns the complete fixed fixture wrapped in `{ "trades": [...] }`; the worker uses the same fixture module to select later pull batches.
+## Timeout and Reconnect Behavior
 
-## Real-Time Updates, Without Polling
+The pull request responds before the worker's delay begins, so the HTTP request does not remain open during a long pull. SSE uses a 20-second heartbeat and browser `EventSource` reconnects automatically. The event replay buffer is limited to 100 events and is lost on backend restart; the queue and pull status are also in memory. A proxy that forcibly closes every connection at 30 seconds can still reconnect the stream, while the replay buffer helps deliver recent events missed during that reconnect.
 
-The dashboard creates an `EventSource` connection to `GET /api/trades/events`. The backend registers each open response as a subscriber and broadcasts `pull` and `trades` events to those subscribers. It writes a comment heartbeat every 20 seconds and removes the subscriber when the response closes. The frontend refreshes its trade query only when it receives a successful `trades` event; there is no polling loop or cronjob.
+## Assessment Fit and Known Limits
 
-SSE sends live events to connected browsers, but the current implementation does not store job state or replay events after a reconnect. A disconnected browser may need to reload to see a batch that completed while it was offline.
+The app separates its 1,000-record initial seed from the additional 1,500-record mock exchange fixture, persists pulled batches to MongoDB, keeps existing records readable during pulls, and updates connected dashboards with SSE. The assessment describes the seed as “a few thousand”; the current seed has 1,000, so increase `trades.json` if the evaluator interprets that strictly as 2,000 or more. A video walkthrough is also a separate submission deliverable and is not in this repository.
 
-## 30-Second Network Timeout
-
-The pull API does not wait for the worker: it queues a job and returns `202 Accepted` immediately. The delay and MongoDB write happen in the backend process afterward, so the 30-second limit does not terminate the pull request before the work finishes.
-
-The dashboard's SSE stream is a separate, long-lived HTTP connection. The 20-second heartbeat helps prevent an idle timeout, but cannot prevent a proxy from enforcing a hard 30-second maximum connection lifetime. EventSource reconnects after a connection drop, but this app does not replay missed events.
-
-## Trade Availability and Process Limits
-
-MongoDB stores the initial seed and successfully inserted pull batches; dashboard reads continue to use that collection. The queue and mock fixture cursor are in memory, so pending jobs and pull status are not durable across a backend restart. This implementation is a single-process assessment demo and does not use a separate queue service.
+This is a simple single-process demo. Restarting the backend loses queued jobs, event history, and the fixture cursor. A pull fails if fewer fixture records remain than its requested batch size.

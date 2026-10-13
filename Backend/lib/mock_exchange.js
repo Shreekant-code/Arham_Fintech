@@ -7,8 +7,6 @@ const trades = JSON.parse(await readFile(file, "utf8"));
 let newTrades = trades;
 let nextTrade = 0;
 
-export const getMockTrades = () => trades;
-
 export const prepareMockExchange = (savedTradeIds) => {
   const saved = new Set(savedTradeIds);
   newTrades = trades.filter((trade) => !saved.has(trade.tradeId));

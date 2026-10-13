@@ -1,6 +1,6 @@
-# Arham Fintech Trade Dashboard
+﻿# Arham Fintech Trade Dashboard
 
-A small full-stack trade dashboard for viewing saved trades and simulating delayed pulls from a fixed BSE-style exchange fixture. Pull requests return immediately; a backend worker inserts the selected batch later, and connected dashboards receive the update over Server-Sent Events (SSE).
+A simple full-stack dashboard for viewing saved trades and simulating delayed pulls from a fixed BSE-style exchange fixture. The backend accepts a pull request immediately, then a worker stores the batch in MongoDB and notifies connected dashboards over Server-Sent Events (SSE).
 
 ## Screenshots
 
@@ -8,32 +8,24 @@ A small full-stack trade dashboard for viewing saved trades and simulating delay
 
 ![Trade dashboard screenshot 2](https://res.cloudinary.com/dtlessn0g/image/upload/v1791872739/Screenshot_2026-10-13_115427_losrvg.png)
 
-## Assessment Requirements and Implemented Features
+## Architecture Diagram
 
-- `Backend/data/trades.json` contains 1,000 initial trades for MongoDB seeding.
-- `Backend/data/mockExchangeTrades.json` contains 1,500 additional fixed trades for mock exchange pulls.
-- The dashboard opens with existing MongoDB trades and can search by trade ID, client, or symbol, filter by symbol, and page through results.
-- Pull requests support batches of 1-500 trades and a delay of up to 15 minutes. The dashboard remains available while the backend worker waits and inserts the batch.
-- Connected dashboards receive pull and trade events through SSE. The frontend does not poll for updates.
-- `GET /getTrades` exposes the mock exchange fixture. It returns fixture records; it does not read the seeded MongoDB collection.
+![Application architecture diagram](https://res.cloudinary.com/dtlessn0g/image/upload/v1791876129/Screenshot_2026-10-13_125148_e5hym2.png)
 
-## Technology Stack
+## Assignment Features
 
-- Frontend: React, Vite, Tailwind CSS utilities, and custom CSS.
-- Backend: Node.js, Express, and Mongoose.
-- Database: MongoDB.
-- Live updates: browser `EventSource` and server-sent events.
-
-## System Architecture
-
-The frontend reads saved trades through the API and submits a short pull request. An in-process backend worker processes queued jobs in order, waits for the selected delay, inserts the next fixture batch into MongoDB, and publishes events to connected SSE clients. See [the architecture note](docs/architecture.md) for the diagram and detailed flow.
+- 1,000 initial trades in `Backend/data/trades.json`, loaded into MongoDB by the seed script.
+- 1,500 separate fixed exchange trades in `Backend/data/mockExchangeTrades.json`; these are pulled in batches and are not seeded initially.
+- `GET /getTrades` returns saved MongoDB trades and is the dashboard's read endpoint.
+- Pulls accept a batch of 1–500 trades and a delay up to 15 minutes. The request responds immediately.
+- Successful pulls are saved to MongoDB and reported to connected dashboards over SSE. The dashboard does not poll.
+- Responsive React dashboard with search, symbol filter, pagination, summary cards, and pull status.
 
 ## Project Structure
 
 ```text
 Backend/
 |-- app.js
-|-- package.json
 |-- Controller/trade.js
 |-- Routes/traderoute.js
 |-- Schema/tradeschema.js
@@ -47,68 +39,47 @@ Backend/
     |-- pull_worker.js
     `-- seeddata.js
 Frontend/
-|-- package.json
-|-- index.html
-|-- vite.config.js
-|-- public/
-|   |-- favicon.svg
-|   |-- icons.svg
-|   `-- logo_fintech-.png
-`-- src/
-    |-- App.jsx
-    |-- main.jsx
-    |-- index.css
-    |-- assets/
-    |   |-- hero.png
-    |   |-- react.svg
-    |   `-- vite.svg
-    |-- components/
-    |   |-- DashboardHeader.jsx
-    |   |-- DashboardHero.jsx
-    |   |-- LiveUpdateCard.jsx
-    |   |-- PullControls.jsx
-    |   |-- PullStatus.jsx
-    |   |-- TradeSummary.jsx
-    |   `-- TradesTable.jsx
-    |-- pages/
-    |   |-- TradesDashboard.jsx
-    |   |-- TradesDashboard.css
-    |   `-- responsive.css
-    `-- services/tradesApi.js
-docs/
-`-- architecture.md
+|-- public/                  Logo and public assets
+|-- src/
+|   |-- components/          Dashboard UI components
+|   |-- pages/               Dashboard page and responsive styles
+|   |-- services/tradesApi.js
+|   |-- App.jsx
+|   `-- main.jsx
+`-- vite.config.js
+
+docs/architecture.md         Structure, diagram, and design notes
 ```
-## Prerequisites
 
-- Node.js 20.19+ or 22.12+ (required by the installed Vite version).
+## Requirements
+
+- Node.js 20.19+ or 22.12+.
 - npm.
-- A reachable MongoDB instance, local or hosted.
+- A reachable MongoDB database.
 
-## Installation and Setup
+## Setup
 
-1. Install backend dependencies and configure MongoDB:
+1. In `Backend`, install dependencies and create `Backend/.env` with your MongoDB URI:
 
    ```sh
    cd Backend
    npm install
    ```
 
-   Create `Backend/.env` with your own connection string:
-
    ```dotenv
    MONGO_URI=mongodb://127.0.0.1:27017/arham_fintech
    ```
 
-2. Seed the initial trades and start the backend:
+2. Seed the initial data and start the backend:
 
    ```sh
    npm run seed
    npm start
    ```
 
-   The backend listens on port `3000` by default.
+   Backend defaults to port `3000`.
 
-3. In a second terminal, install and start the frontend:
+3. In a second terminal, start the frontend:
 
    ```sh
    cd Frontend
@@ -116,144 +87,56 @@ docs/
    npm run dev
    ```
 
-   Open the local URL printed by Vite (normally `http://localhost:5173`). The Vite development server proxies `/api` requests to `http://localhost:3000`.
+   Open the Vite URL, usually `http://localhost:5173`. The Vite server proxies `/api` and `/getTrades` to the backend.
 
-To run the backend with Node's watch mode during development, use `npm run dev` from `Backend`. To check the frontend, use `npm run lint` and `npm run build` from `Frontend`.
+## API
 
-## Environment Variables
-
-| Variable | Required | Description |
-| --- | --- | --- |
-| `MONGO_URI` | Yes | MongoDB connection string. |
-| `MONGODB_URI` | Alternative | Accepted if `MONGO_URI` is unset. |
-| `PORT` | No | Backend port; defaults to `3000`. The frontend Vite proxy is configured for port `3000`. |
-
-Keep credentials in your local `Backend/.env`; do not commit them.
-
-## API Documentation
-
-All endpoints below are served by the backend on port `3000`.
+All routes are served on port `3000`.
 
 ### `GET /getTrades`
 
-Returns the complete mock exchange fixture in `{ "trades": [...] }` form. It does not paginate or read MongoDB.
+Returns saved MongoDB trades, newest first, with aggregate summary data. The dashboard uses this endpoint. Query parameters: `page` (default 1), `limit` (default 10, maximum 100), `search` (trade ID, client, or symbol), and `symbol` (exact symbol). If both `page` and `limit` are omitted, all matching trades are returned.
 
 ```sh
-curl http://localhost:3000/getTrades
+curl "http://localhost:3000/getTrades?page=1&limit=10"
 ```
 
-Each trade has `tradeId`, `client`, `symbol`, `quantity`, `price`, and `timestamp` fields.
-
-### `GET /api/trades`
-
-Returns saved MongoDB trades, sorted newest first, with pagination and aggregate summary data. Query parameters: `page` (default `1`), `limit` (default `10`, maximum `100`), `search` (matches trade ID, client, or symbol), and `symbol` (exact symbol filter).
-
-```sh
-curl "http://localhost:3000/api/trades?page=1&limit=10"
-```
-
-Response shape:
-
-```json
-{
-  "trades": [
-    {
-      "tradeId": "MOCK-TRD-000817",
-      "client": "Client Theta",
-      "symbol": "LT",
-      "quantity": 207,
-      "price": 3707.71,
-      "timestamp": "2026-10-13T09:03:09.000Z"
-    }
-  ],
-  "page": 1,
-  "limit": 10,
-  "total": 1000,
-  "totalPages": 100,
-  "summary": {
-    "total": 1000,
-    "uniqueClients": 10,
-    "uniqueSymbols": 10,
-    "symbols": ["BHARTIARTL", "HDFCBANK", "ICICIBANK", "INFY", "ITC", "LT", "RELIANCE", "SBIN", "TATAMOTORS", "TCS"],
-    "tradeValue": 848453061.94
-  }
-}
-```
-
-This example reflects the checked-in initial seed. Values change as pulled trades are added. Summary values cover all saved trades, while `total` and `trades` reflect the active filters.
+`GET /api/trades` is a compatibility alias for this endpoint.
 
 ### `POST /api/trades/pulls`
 
-Accepts a pull request and returns HTTP `202 Accepted` with a job ID. The request does not wait for the selected delay or MongoDB insert.
+Queues a pull and responds with HTTP `202` and a job ID without waiting for the selected delay.
 
 ```sh
-curl -X POST http://localhost:3000/api/trades/pulls \
-  -H "Content-Type: application/json" \
+curl -X POST http://localhost:3000/api/trades/pulls `
+  -H "Content-Type: application/json" `
   -d '{"batchSize":100,"delayMs":3000}'
 ```
 
-Example response:
-
-```json
-{
-  "jobId": "generated-job-id",
-  "status": "queued",
-  "batchSize": 100,
-  "delayMs": 3000
-}
-```
-
-`batchSize` must be an integer from 1 to 500. `delayMs` must be an integer from 0 to 900000.
+`batchSize` must be 1–500; `delayMs` must be 0–900000 (15 minutes).
 
 ### `GET /api/trades/events`
 
-Opens an SSE stream. Events include `connected`, `pull`, and `trades`. `pull` events report `waiting`, `processing`, or `failed`; a successful `trades` event contains the inserted trades and `insertedCount`. The dashboard uses this stream for updates.
+SSE stream for `connected`, `pull`, and `trades` events. The latest 100 events are buffered in memory for reconnect replay.
 
 ### `GET /api/health`
 
-Returns `{ "status": "ok" }` when the HTTP route is available.
+Returns `{ "status": "ok" }` when the backend is available.
 
-## Application Workflow
+## Data Flow
 
-1. Run `npm run seed` once to upsert the initial 1,000 records into MongoDB. The seed uses trade IDs to avoid inserting duplicates on repeated runs.
-2. When the dashboard opens, it requests the current saved trades from `GET /api/trades` and opens an SSE connection.
-3. The user submits a pull. `POST /api/trades/pulls` validates it, puts it on the in-memory worker queue, and returns a job ID immediately.
-4. The worker processes queued pulls in order, waits for the requested delay, and selects the next records from the separate mock fixture.
-5. The worker inserts the selected trades into MongoDB and publishes an SSE event. The dashboard then reloads the visible trade page and summary without a manual refresh.
+1. Run `npm run seed` to upsert the 1,000 initial records into MongoDB. Re-running the script does not duplicate trade IDs.
+2. The dashboard loads persisted trades from `GET /getTrades` and opens an SSE connection.
+3. A user submits a pull. The backend queues it and immediately returns a job ID.
+4. The worker waits for the selected delay, takes the next unique records from `mockExchangeTrades.json`, and inserts them into MongoDB.
+5. The worker sends an SSE event. The dashboard reloads its current results and summary automatically.
 
-## Handling the 30-Second HTTP Timeout
+The pull request returns before the worker's delay, so the 15-minute operation does not keep that HTTP request open. A 20-second heartbeat helps keep an idle SSE connection alive. `EventSource` reconnects and supplies `Last-Event-ID`, allowing replay of recent buffered events.
 
-The `POST /api/trades/pulls` request only queues work and returns `202`; it does not stay open while the worker waits for up to 15 minutes. The worker continues independently in the backend process. The dashboard's SSE connection is a separate request, with a server heartbeat every 20 seconds to keep an idle stream active on networks that enforce idle timeouts.
+## Assessment Notes and Limits
 
-## Real-Time Dashboard Updates
+The assessment calls for “a few thousand” seeded trades; this project currently seeds 1,000. Increase `Backend/data/trades.json` if the evaluator expects at least 2,000. The separate 1,500-record fixture remains dedicated to later pulls. The required video walkthrough must be recorded separately.
 
-The frontend opens `/api/trades/events` with `EventSource`. When the worker publishes inserted trades, the backend sends a `trades` event to connected clients. The frontend handles that event by refreshing the current trade query. It does not use a polling loop, page reload, or cronjob.
+The queue, fixture cursor, pull status, and 100-event SSE replay buffer are in memory. A backend restart clears them. The app is intended as a straightforward single-process assignment demo, not a durable multi-server job system. A pull fails if the fixture has fewer remaining records than the requested batch.
 
-## Testing Instructions
-
-1. Start MongoDB, seed the database, then start the backend and frontend using the setup steps above.
-2. Open the dashboard. Confirm that the saved trades and summary appear. You can also request `GET /api/trades?page=1&limit=10` directly.
-3. Start a pull with a short delay (for example, `delayMs: 3000`) and a small batch. Confirm the API returns a job ID immediately and the existing trades remain visible while the status is waiting.
-4. Keep the dashboard open until the delay completes. Confirm the pull reaches completion and new trades appear without refreshing the page. Check that the total increases by the inserted batch size.
-5. Optional frontend checks: run `npm run lint` and `npm run build` from `Frontend`.
-
-## Architecture Design Decisions
-
-- The initial seed and mock exchange fixture are separate files and serve separate purposes.
-- The pull endpoint acknowledges work quickly, while the worker handles the delay and database insert outside that HTTP request.
-- MongoDB remains the source for dashboard reads; the mock fixture supplies only new pull data.
-- SSE broadcasts updates to currently connected dashboards without a polling loop.
-
-## Assessment Gaps
-
-- The assessment wording asks `GET /getTrades` to return seeded trade data. In this code it returns the separate 1,500-record exchange fixture, while the 1,000 initial trades are loaded into MongoDB and served by `GET /api/trades`. The endpoint therefore returns 1,500 rather than a few thousand records. If the reviewer expects `GET /getTrades` itself to return the seeded collection, that requirement is not met by the current route.
-- The source tree does not include the required video walkthrough; it must be recorded separately.
-- The current workspace does not contain Git metadata. To meet the single-repository deliverable, initialize or place this project in the required Git repository before submission.
-
-## Known Limitations
-
-- The job queue and fixture cursor are in memory. Pending jobs and pull status are lost when the backend process restarts; this is a simple single-process demo worker, not a durable production queue.
-- The mock fixture has 1,500 records. A pull fails when the requested batch is larger than the remaining fixture records.
-- SSE sends events to connected clients but does not persist or replay missed events. A browser reconnects automatically, but if it misses the final event, it may need a page reload to refresh its data.
-- The SSE heartbeat helps with idle connection timeouts. A network that enforces a hard 30-second maximum connection lifetime can still disconnect the stream; reconnecting clients do not receive replayed events.
-
+See [the architecture note](docs/architecture.md) for the diagram and detailed structure. Keep MongoDB credentials in the ignored local `Backend/.env`; never commit secrets.
