@@ -1,2 +1,7 @@
-# Dependencies in any project folder
+# Dependencies
 **/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
