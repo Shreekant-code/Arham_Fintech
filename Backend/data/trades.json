@@ -1,0 +1,8002 @@
+[
+  {
+    "tradeId": "MOCK-TRD-000001",
+    "client": "Client Iota",
+    "symbol": "SBIN",
+    "quantity": 256,
+    "price": 831.75,
+    "timestamp": "2026-10-12T11:07:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000002",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 854,
+    "price": 686.67,
+    "timestamp": "2026-10-12T08:57:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000003",
+    "client": "Client Iota",
+    "symbol": "SBIN",
+    "quantity": 681,
+    "price": 890.87,
+    "timestamp": "2026-10-11T23:26:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000004",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 51,
+    "price": 848.67,
+    "timestamp": "2026-10-06T16:55:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000005",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 418,
+    "price": 3749.53,
+    "timestamp": "2026-10-05T19:27:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000006",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 597,
+    "price": 1876.66,
+    "timestamp": "2026-10-10T09:06:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000007",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 517,
+    "price": 3081.37,
+    "timestamp": "2026-10-08T23:27:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000008",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 690,
+    "price": 689.63,
+    "timestamp": "2026-10-08T01:39:31.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000009",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 775,
+    "price": 1430.6,
+    "timestamp": "2026-10-05T03:20:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000010",
+    "client": "Client Gamma",
+    "symbol": "ITC",
+    "quantity": 634,
+    "price": 435.68,
+    "timestamp": "2026-10-03T08:15:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000011",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 892,
+    "price": 430.43,
+    "timestamp": "2026-10-06T09:06:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000012",
+    "client": "Client Alpha",
+    "symbol": "SBIN",
+    "quantity": 692,
+    "price": 821.7,
+    "timestamp": "2026-10-08T22:03:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000013",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 188,
+    "price": 1459.91,
+    "timestamp": "2026-10-09T06:44:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000014",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 363,
+    "price": 1491.96,
+    "timestamp": "2026-10-13T01:04:31.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000015",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 958,
+    "price": 670.01,
+    "timestamp": "2026-10-11T08:23:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000016",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 246,
+    "price": 1874.51,
+    "timestamp": "2026-10-05T09:34:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000017",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 702,
+    "price": 1494.57,
+    "timestamp": "2026-10-06T11:16:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000018",
+    "client": "Client Epsilon",
+    "symbol": "HDFCBANK",
+    "quantity": 931,
+    "price": 1676.36,
+    "timestamp": "2026-10-03T10:51:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000019",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 504,
+    "price": 1206.71,
+    "timestamp": "2026-10-13T03:30:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000020",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 6,
+    "price": 1794.46,
+    "timestamp": "2026-10-09T20:39:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000021",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 593,
+    "price": 1981.25,
+    "timestamp": "2026-10-06T20:00:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000022",
+    "client": "Client Iota",
+    "symbol": "SBIN",
+    "quantity": 548,
+    "price": 822.74,
+    "timestamp": "2026-10-03T10:50:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000023",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 559,
+    "price": 3668.22,
+    "timestamp": "2026-10-08T18:21:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000024",
+    "client": "Client Iota",
+    "symbol": "SBIN",
+    "quantity": 209,
+    "price": 887.99,
+    "timestamp": "2026-10-06T18:23:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000025",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 954,
+    "price": 1696.37,
+    "timestamp": "2026-10-11T21:57:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000026",
+    "client": "Client Delta",
+    "symbol": "TATAMOTORS",
+    "quantity": 935,
+    "price": 690.22,
+    "timestamp": "2026-10-09T12:28:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000027",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 597,
+    "price": 1749.04,
+    "timestamp": "2026-10-10T02:47:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000028",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 98,
+    "price": 1494.3,
+    "timestamp": "2026-10-06T12:46:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000029",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 145,
+    "price": 1534.01,
+    "timestamp": "2026-10-05T15:29:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000030",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 514,
+    "price": 1485.05,
+    "timestamp": "2026-10-09T00:00:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000031",
+    "client": "Client Beta",
+    "symbol": "SBIN",
+    "quantity": 800,
+    "price": 825.61,
+    "timestamp": "2026-10-10T21:38:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000032",
+    "client": "Client Eta",
+    "symbol": "SBIN",
+    "quantity": 524,
+    "price": 814.27,
+    "timestamp": "2026-10-06T07:10:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000033",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 454,
+    "price": 1475.15,
+    "timestamp": "2026-10-12T09:53:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000034",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 978,
+    "price": 1308.6,
+    "timestamp": "2026-10-10T08:30:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000035",
+    "client": "Client Beta",
+    "symbol": "SBIN",
+    "quantity": 115,
+    "price": 890.02,
+    "timestamp": "2026-10-11T04:29:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000036",
+    "client": "Client Zeta",
+    "symbol": "BHARTIARTL",
+    "quantity": 668,
+    "price": 1906.3,
+    "timestamp": "2026-10-11T00:21:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000037",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 795,
+    "price": 1445.48,
+    "timestamp": "2026-10-03T17:10:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000038",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 134,
+    "price": 1822.35,
+    "timestamp": "2026-10-05T07:21:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000039",
+    "client": "Client Zeta",
+    "symbol": "TCS",
+    "quantity": 340,
+    "price": 3306.83,
+    "timestamp": "2026-10-08T22:59:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000040",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 26,
+    "price": 836.05,
+    "timestamp": "2026-10-07T02:23:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000041",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 805,
+    "price": 1537.65,
+    "timestamp": "2026-10-11T04:36:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000042",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 459,
+    "price": 1690.6,
+    "timestamp": "2026-10-07T03:27:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000043",
+    "client": "Client Epsilon",
+    "symbol": "HDFCBANK",
+    "quantity": 998,
+    "price": 1704.22,
+    "timestamp": "2026-10-12T02:32:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000044",
+    "client": "Client Kappa",
+    "symbol": "ITC",
+    "quantity": 429,
+    "price": 447.54,
+    "timestamp": "2026-10-06T16:35:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000045",
+    "client": "Client Eta",
+    "symbol": "TATAMOTORS",
+    "quantity": 942,
+    "price": 728.49,
+    "timestamp": "2026-10-12T08:14:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000046",
+    "client": "Client Gamma",
+    "symbol": "LT",
+    "quantity": 81,
+    "price": 3536.81,
+    "timestamp": "2026-10-04T16:12:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000047",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 719,
+    "price": 1476.59,
+    "timestamp": "2026-10-04T12:44:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000048",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 447,
+    "price": 1252.16,
+    "timestamp": "2026-10-12T22:06:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000049",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 501,
+    "price": 1244.81,
+    "timestamp": "2026-10-03T20:37:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000050",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 358,
+    "price": 1667.85,
+    "timestamp": "2026-10-10T15:08:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000051",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 253,
+    "price": 3260.33,
+    "timestamp": "2026-10-04T12:49:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000052",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 202,
+    "price": 455.51,
+    "timestamp": "2026-10-02T02:15:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000053",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 534,
+    "price": 3697.58,
+    "timestamp": "2026-10-04T14:20:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000054",
+    "client": "Client Theta",
+    "symbol": "TCS",
+    "quantity": 483,
+    "price": 3318.89,
+    "timestamp": "2026-10-09T12:33:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000055",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 568,
+    "price": 1235.96,
+    "timestamp": "2026-10-09T15:18:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000056",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 60,
+    "price": 880.44,
+    "timestamp": "2026-10-02T03:40:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000057",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 265,
+    "price": 1222.76,
+    "timestamp": "2026-10-04T14:13:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000058",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 494,
+    "price": 1465.3,
+    "timestamp": "2026-10-06T18:03:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000059",
+    "client": "Client Epsilon",
+    "symbol": "ITC",
+    "quantity": 412,
+    "price": 449.09,
+    "timestamp": "2026-10-04T19:52:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000060",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 295,
+    "price": 1432.24,
+    "timestamp": "2026-10-07T11:33:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000061",
+    "client": "Client Epsilon",
+    "symbol": "ITC",
+    "quantity": 432,
+    "price": 453.27,
+    "timestamp": "2026-10-13T08:58:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000062",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 778,
+    "price": 1477.74,
+    "timestamp": "2026-10-04T15:30:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000063",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 979,
+    "price": 1665.46,
+    "timestamp": "2026-10-13T03:38:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000064",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 775,
+    "price": 458.61,
+    "timestamp": "2026-10-01T09:35:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000065",
+    "client": "Client Alpha",
+    "symbol": "TCS",
+    "quantity": 902,
+    "price": 3291.61,
+    "timestamp": "2026-10-10T18:00:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000066",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 177,
+    "price": 1713.7,
+    "timestamp": "2026-10-10T00:00:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000067",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 779,
+    "price": 1271.38,
+    "timestamp": "2026-10-08T06:41:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000068",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 881,
+    "price": 1771.58,
+    "timestamp": "2026-10-09T03:04:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000069",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 520,
+    "price": 1253.47,
+    "timestamp": "2026-10-03T11:13:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000070",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 200,
+    "price": 1449.84,
+    "timestamp": "2026-10-10T13:24:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000071",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 719,
+    "price": 1509.9,
+    "timestamp": "2026-10-06T17:16:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000072",
+    "client": "Client Epsilon",
+    "symbol": "SBIN",
+    "quantity": 28,
+    "price": 873.22,
+    "timestamp": "2026-10-11T21:53:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000073",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 961,
+    "price": 1510.12,
+    "timestamp": "2026-10-10T13:56:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000074",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 717,
+    "price": 847.22,
+    "timestamp": "2026-10-12T09:59:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000075",
+    "client": "Client Alpha",
+    "symbol": "SBIN",
+    "quantity": 707,
+    "price": 819.1,
+    "timestamp": "2026-10-10T17:33:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000076",
+    "client": "Client Iota",
+    "symbol": "TCS",
+    "quantity": 303,
+    "price": 3302.08,
+    "timestamp": "2026-10-12T23:35:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000077",
+    "client": "Client Delta",
+    "symbol": "ITC",
+    "quantity": 57,
+    "price": 468.24,
+    "timestamp": "2026-10-07T08:54:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000078",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 40,
+    "price": 3559.4,
+    "timestamp": "2026-10-01T15:51:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000079",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 302,
+    "price": 1435.14,
+    "timestamp": "2026-10-02T05:43:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000080",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 254,
+    "price": 1404.51,
+    "timestamp": "2026-10-03T20:46:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000081",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 90,
+    "price": 1266.56,
+    "timestamp": "2026-10-06T00:02:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000082",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 994,
+    "price": 818.84,
+    "timestamp": "2026-10-12T02:24:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000083",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 732,
+    "price": 1489.06,
+    "timestamp": "2026-10-09T03:54:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000084",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 965,
+    "price": 1478.54,
+    "timestamp": "2026-10-11T08:48:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000085",
+    "client": "Client Epsilon",
+    "symbol": "BHARTIARTL",
+    "quantity": 121,
+    "price": 1896.42,
+    "timestamp": "2026-10-02T17:47:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000086",
+    "client": "Client Epsilon",
+    "symbol": "TATAMOTORS",
+    "quantity": 569,
+    "price": 692.84,
+    "timestamp": "2026-10-12T23:21:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000087",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 217,
+    "price": 1387.07,
+    "timestamp": "2026-10-09T03:11:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000088",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 760,
+    "price": 711.04,
+    "timestamp": "2026-10-07T15:13:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000089",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 514,
+    "price": 1991.11,
+    "timestamp": "2026-10-12T02:10:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000090",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 369,
+    "price": 3648.04,
+    "timestamp": "2026-10-03T01:43:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000091",
+    "client": "Client Epsilon",
+    "symbol": "BHARTIARTL",
+    "quantity": 56,
+    "price": 1947.7,
+    "timestamp": "2026-10-08T18:21:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000092",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 915,
+    "price": 1564.27,
+    "timestamp": "2026-10-09T11:56:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000093",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 605,
+    "price": 1816.0,
+    "timestamp": "2026-10-12T21:28:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000094",
+    "client": "Client Gamma",
+    "symbol": "ITC",
+    "quantity": 157,
+    "price": 448.61,
+    "timestamp": "2026-10-08T15:23:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000095",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 198,
+    "price": 1535.27,
+    "timestamp": "2026-10-10T10:17:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000096",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 891,
+    "price": 1669.26,
+    "timestamp": "2026-10-12T22:33:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000097",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 37,
+    "price": 1291.69,
+    "timestamp": "2026-10-11T00:21:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000098",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 220,
+    "price": 3753.82,
+    "timestamp": "2026-10-12T06:20:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000099",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 996,
+    "price": 1217.14,
+    "timestamp": "2026-10-06T03:44:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000100",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 398,
+    "price": 1882.86,
+    "timestamp": "2026-10-03T20:41:31.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000101",
+    "client": "Client Delta",
+    "symbol": "TATAMOTORS",
+    "quantity": 943,
+    "price": 698.93,
+    "timestamp": "2026-10-07T02:23:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000102",
+    "client": "Client Epsilon",
+    "symbol": "TATAMOTORS",
+    "quantity": 807,
+    "price": 689.23,
+    "timestamp": "2026-10-03T01:16:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000103",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 661,
+    "price": 869.51,
+    "timestamp": "2026-10-02T22:32:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000104",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 597,
+    "price": 3162.29,
+    "timestamp": "2026-10-10T11:29:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000105",
+    "client": "Client Eta",
+    "symbol": "TATAMOTORS",
+    "quantity": 492,
+    "price": 678.19,
+    "timestamp": "2026-10-10T11:27:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000106",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 989,
+    "price": 1962.99,
+    "timestamp": "2026-10-04T06:26:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000107",
+    "client": "Client Kappa",
+    "symbol": "TATAMOTORS",
+    "quantity": 844,
+    "price": 707.72,
+    "timestamp": "2026-10-09T23:58:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000108",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 612,
+    "price": 3717.43,
+    "timestamp": "2026-10-01T18:03:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000109",
+    "client": "Client Delta",
+    "symbol": "ITC",
+    "quantity": 157,
+    "price": 441.63,
+    "timestamp": "2026-10-06T16:27:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000110",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 204,
+    "price": 3675.27,
+    "timestamp": "2026-10-05T09:01:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000111",
+    "client": "Client Eta",
+    "symbol": "SBIN",
+    "quantity": 325,
+    "price": 829.05,
+    "timestamp": "2026-10-03T10:03:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000112",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 651,
+    "price": 1442.21,
+    "timestamp": "2026-10-08T18:51:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000113",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 244,
+    "price": 3457.64,
+    "timestamp": "2026-10-03T10:23:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000114",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 302,
+    "price": 878.09,
+    "timestamp": "2026-10-01T22:41:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000115",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 1,
+    "price": 1742.04,
+    "timestamp": "2026-10-11T22:32:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000116",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 604,
+    "price": 1266.46,
+    "timestamp": "2026-10-05T19:49:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000117",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 414,
+    "price": 3625.46,
+    "timestamp": "2026-10-03T21:55:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000118",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 413,
+    "price": 3564.41,
+    "timestamp": "2026-10-03T08:02:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000119",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 929,
+    "price": 1519.79,
+    "timestamp": "2026-10-06T05:27:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000120",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 399,
+    "price": 1759.51,
+    "timestamp": "2026-10-12T04:42:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000121",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 451,
+    "price": 1856.3,
+    "timestamp": "2026-10-04T21:23:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000122",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 81,
+    "price": 1571.53,
+    "timestamp": "2026-10-07T11:10:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000123",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 388,
+    "price": 1571.93,
+    "timestamp": "2026-10-10T20:39:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000124",
+    "client": "Client Epsilon",
+    "symbol": "ICICIBANK",
+    "quantity": 805,
+    "price": 1259.9,
+    "timestamp": "2026-10-02T10:51:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000125",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 349,
+    "price": 1972.63,
+    "timestamp": "2026-10-01T20:24:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000126",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 228,
+    "price": 728.13,
+    "timestamp": "2026-10-10T18:22:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000127",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 160,
+    "price": 1521.73,
+    "timestamp": "2026-10-06T03:48:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000128",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 22,
+    "price": 1487.66,
+    "timestamp": "2026-10-13T09:01:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000129",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 103,
+    "price": 1427.6,
+    "timestamp": "2026-10-01T12:54:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000130",
+    "client": "Client Zeta",
+    "symbol": "TCS",
+    "quantity": 390,
+    "price": 3290.37,
+    "timestamp": "2026-10-02T03:39:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000131",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 394,
+    "price": 431.5,
+    "timestamp": "2026-10-02T06:55:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000132",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 779,
+    "price": 1566.46,
+    "timestamp": "2026-10-03T06:38:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000133",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 131,
+    "price": 1969.57,
+    "timestamp": "2026-10-12T08:45:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000134",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 768,
+    "price": 1696.48,
+    "timestamp": "2026-10-12T22:03:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000135",
+    "client": "Client Epsilon",
+    "symbol": "ICICIBANK",
+    "quantity": 773,
+    "price": 1244.42,
+    "timestamp": "2026-10-12T18:26:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000136",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 389,
+    "price": 3511.55,
+    "timestamp": "2026-10-01T11:37:31.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000137",
+    "client": "Client Gamma",
+    "symbol": "ITC",
+    "quantity": 635,
+    "price": 430.16,
+    "timestamp": "2026-10-11T20:02:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000138",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 71,
+    "price": 3318.33,
+    "timestamp": "2026-10-05T00:50:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000139",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 224,
+    "price": 3466.83,
+    "timestamp": "2026-10-05T04:48:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000140",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 356,
+    "price": 1663.12,
+    "timestamp": "2026-10-13T08:53:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000141",
+    "client": "Client Epsilon",
+    "symbol": "BHARTIARTL",
+    "quantity": 943,
+    "price": 1927.68,
+    "timestamp": "2026-10-04T13:17:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000142",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 807,
+    "price": 1954.14,
+    "timestamp": "2026-10-10T08:40:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000143",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 717,
+    "price": 1831.02,
+    "timestamp": "2026-10-13T04:29:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000144",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 181,
+    "price": 1975.94,
+    "timestamp": "2026-10-02T09:34:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000145",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 239,
+    "price": 1834.42,
+    "timestamp": "2026-10-09T11:50:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000146",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 334,
+    "price": 711.88,
+    "timestamp": "2026-10-12T18:51:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000147",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 832,
+    "price": 3524.39,
+    "timestamp": "2026-10-10T07:16:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000148",
+    "client": "Client Alpha",
+    "symbol": "TCS",
+    "quantity": 546,
+    "price": 3331.95,
+    "timestamp": "2026-10-09T09:53:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000149",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 350,
+    "price": 1261.48,
+    "timestamp": "2026-10-08T20:53:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000150",
+    "client": "Client Epsilon",
+    "symbol": "HDFCBANK",
+    "quantity": 56,
+    "price": 1797.94,
+    "timestamp": "2026-10-07T07:40:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000151",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 792,
+    "price": 3232.97,
+    "timestamp": "2026-10-05T07:52:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000152",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 516,
+    "price": 427.69,
+    "timestamp": "2026-10-10T15:24:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000153",
+    "client": "Client Epsilon",
+    "symbol": "RELIANCE",
+    "quantity": 586,
+    "price": 1431.41,
+    "timestamp": "2026-10-06T00:55:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000154",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 779,
+    "price": 3527.68,
+    "timestamp": "2026-10-04T09:25:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000155",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 775,
+    "price": 464.95,
+    "timestamp": "2026-10-02T00:16:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000156",
+    "client": "Client Gamma",
+    "symbol": "BHARTIARTL",
+    "quantity": 721,
+    "price": 1887.13,
+    "timestamp": "2026-10-13T07:29:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000157",
+    "client": "Client Epsilon",
+    "symbol": "ITC",
+    "quantity": 996,
+    "price": 442.83,
+    "timestamp": "2026-10-01T11:16:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000158",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 977,
+    "price": 3446.25,
+    "timestamp": "2026-10-05T11:04:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000159",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 742,
+    "price": 1678.02,
+    "timestamp": "2026-10-05T19:41:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000160",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 883,
+    "price": 828.61,
+    "timestamp": "2026-10-05T05:12:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000161",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 16,
+    "price": 452.08,
+    "timestamp": "2026-10-09T15:37:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000162",
+    "client": "Client Eta",
+    "symbol": "RELIANCE",
+    "quantity": 872,
+    "price": 1485.46,
+    "timestamp": "2026-10-05T17:55:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000163",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 512,
+    "price": 1949.01,
+    "timestamp": "2026-10-07T08:16:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000164",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 282,
+    "price": 1219.67,
+    "timestamp": "2026-10-10T11:25:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000165",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 30,
+    "price": 463.5,
+    "timestamp": "2026-10-07T22:57:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000166",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 463,
+    "price": 1287.96,
+    "timestamp": "2026-10-07T19:52:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000167",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 103,
+    "price": 1555.54,
+    "timestamp": "2026-10-04T01:36:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000168",
+    "client": "Client Theta",
+    "symbol": "TCS",
+    "quantity": 119,
+    "price": 3245.53,
+    "timestamp": "2026-10-10T06:11:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000169",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 803,
+    "price": 1814.71,
+    "timestamp": "2026-10-02T08:33:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000170",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 770,
+    "price": 1881.94,
+    "timestamp": "2026-10-04T22:24:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000171",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 435,
+    "price": 1201.03,
+    "timestamp": "2026-10-06T20:32:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000172",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 797,
+    "price": 1248.77,
+    "timestamp": "2026-10-09T11:37:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000173",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 611,
+    "price": 1774.22,
+    "timestamp": "2026-10-07T16:51:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000174",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 631,
+    "price": 1936.52,
+    "timestamp": "2026-10-05T06:40:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000175",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 244,
+    "price": 1509.57,
+    "timestamp": "2026-10-09T06:37:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000176",
+    "client": "Client Delta",
+    "symbol": "ITC",
+    "quantity": 534,
+    "price": 468.24,
+    "timestamp": "2026-10-02T23:57:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000177",
+    "client": "Client Epsilon",
+    "symbol": "ITC",
+    "quantity": 307,
+    "price": 467.35,
+    "timestamp": "2026-10-06T05:49:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000178",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 84,
+    "price": 3650.07,
+    "timestamp": "2026-10-12T13:00:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000179",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 550,
+    "price": 454.76,
+    "timestamp": "2026-10-11T18:32:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000180",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 844,
+    "price": 3428.41,
+    "timestamp": "2026-10-06T20:43:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000181",
+    "client": "Client Epsilon",
+    "symbol": "TATAMOTORS",
+    "quantity": 206,
+    "price": 680.29,
+    "timestamp": "2026-10-04T13:59:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000182",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 179,
+    "price": 1836.26,
+    "timestamp": "2026-10-11T08:01:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000183",
+    "client": "Client Beta",
+    "symbol": "SBIN",
+    "quantity": 830,
+    "price": 881.95,
+    "timestamp": "2026-10-01T15:07:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000184",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 925,
+    "price": 1791.98,
+    "timestamp": "2026-10-06T17:39:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000185",
+    "client": "Client Beta",
+    "symbol": "ITC",
+    "quantity": 160,
+    "price": 467.27,
+    "timestamp": "2026-10-04T02:46:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000186",
+    "client": "Client Theta",
+    "symbol": "ITC",
+    "quantity": 390,
+    "price": 443.36,
+    "timestamp": "2026-10-11T07:43:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000187",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 738,
+    "price": 1461.09,
+    "timestamp": "2026-10-07T05:21:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000188",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 979,
+    "price": 829.52,
+    "timestamp": "2026-10-06T15:50:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000189",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 988,
+    "price": 1864.13,
+    "timestamp": "2026-10-10T13:35:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000190",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 459,
+    "price": 1384.33,
+    "timestamp": "2026-10-10T04:02:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000191",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 594,
+    "price": 449.2,
+    "timestamp": "2026-10-09T08:51:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000192",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 579,
+    "price": 1426.67,
+    "timestamp": "2026-10-10T08:09:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000193",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 234,
+    "price": 676.45,
+    "timestamp": "2026-10-11T19:27:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000194",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 637,
+    "price": 3773.66,
+    "timestamp": "2026-10-02T03:01:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000195",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 863,
+    "price": 1300.25,
+    "timestamp": "2026-10-09T00:45:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000196",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 706,
+    "price": 1519.78,
+    "timestamp": "2026-10-02T04:05:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000197",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 788,
+    "price": 3688.0,
+    "timestamp": "2026-10-12T19:03:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000198",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 118,
+    "price": 1883.12,
+    "timestamp": "2026-10-12T20:16:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000199",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 808,
+    "price": 1821.41,
+    "timestamp": "2026-10-06T08:30:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000200",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 384,
+    "price": 1483.02,
+    "timestamp": "2026-10-11T10:01:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000201",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 720,
+    "price": 429.5,
+    "timestamp": "2026-10-10T02:22:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000202",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 81,
+    "price": 3180.38,
+    "timestamp": "2026-10-10T18:43:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000203",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 660,
+    "price": 809.79,
+    "timestamp": "2026-10-11T04:14:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000204",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 936,
+    "price": 3482.66,
+    "timestamp": "2026-10-03T16:41:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000205",
+    "client": "Client Gamma",
+    "symbol": "ITC",
+    "quantity": 620,
+    "price": 461.53,
+    "timestamp": "2026-10-02T02:21:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000206",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 420,
+    "price": 1809.29,
+    "timestamp": "2026-10-11T15:19:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000207",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 648,
+    "price": 1241.36,
+    "timestamp": "2026-10-12T14:50:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000208",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 902,
+    "price": 1232.21,
+    "timestamp": "2026-10-03T03:03:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000209",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 568,
+    "price": 1401.41,
+    "timestamp": "2026-10-07T06:23:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000210",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 288,
+    "price": 1546.43,
+    "timestamp": "2026-10-06T13:43:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000211",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 662,
+    "price": 444.87,
+    "timestamp": "2026-10-13T08:05:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000212",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 206,
+    "price": 3655.33,
+    "timestamp": "2026-10-11T06:41:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000213",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 383,
+    "price": 1218.27,
+    "timestamp": "2026-10-10T23:56:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000214",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 795,
+    "price": 3581.17,
+    "timestamp": "2026-10-05T15:06:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000215",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 703,
+    "price": 3348.64,
+    "timestamp": "2026-10-03T23:24:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000216",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 656,
+    "price": 868.24,
+    "timestamp": "2026-10-04T20:30:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000217",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 449,
+    "price": 466.52,
+    "timestamp": "2026-10-07T23:59:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000218",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 718,
+    "price": 1790.09,
+    "timestamp": "2026-10-01T20:25:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000219",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 850,
+    "price": 1766.65,
+    "timestamp": "2026-10-05T05:19:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000220",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 246,
+    "price": 459.6,
+    "timestamp": "2026-10-11T03:58:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000221",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 379,
+    "price": 1956.44,
+    "timestamp": "2026-10-02T05:48:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000222",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 247,
+    "price": 1825.97,
+    "timestamp": "2026-10-04T06:56:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000223",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 277,
+    "price": 3736.73,
+    "timestamp": "2026-10-11T19:16:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000224",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 502,
+    "price": 1451.92,
+    "timestamp": "2026-10-02T07:21:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000225",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 814,
+    "price": 1721.87,
+    "timestamp": "2026-10-09T00:35:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000226",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 607,
+    "price": 1823.22,
+    "timestamp": "2026-10-10T18:05:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000227",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 989,
+    "price": 1390.44,
+    "timestamp": "2026-10-02T23:06:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000228",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 862,
+    "price": 431.36,
+    "timestamp": "2026-10-11T18:06:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000229",
+    "client": "Client Gamma",
+    "symbol": "BHARTIARTL",
+    "quantity": 857,
+    "price": 1894.84,
+    "timestamp": "2026-10-12T03:54:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000230",
+    "client": "Client Delta",
+    "symbol": "INFY",
+    "quantity": 942,
+    "price": 1555.44,
+    "timestamp": "2026-10-09T05:05:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000231",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 920,
+    "price": 1921.95,
+    "timestamp": "2026-10-02T11:52:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000232",
+    "client": "Client Beta",
+    "symbol": "SBIN",
+    "quantity": 165,
+    "price": 891.59,
+    "timestamp": "2026-10-04T05:35:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000233",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 356,
+    "price": 3180.15,
+    "timestamp": "2026-10-01T09:50:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000234",
+    "client": "Client Iota",
+    "symbol": "TCS",
+    "quantity": 330,
+    "price": 3240.63,
+    "timestamp": "2026-10-09T22:35:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000235",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 963,
+    "price": 1787.97,
+    "timestamp": "2026-10-11T00:10:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000236",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 879,
+    "price": 1518.54,
+    "timestamp": "2026-10-06T10:58:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000237",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 126,
+    "price": 1897.85,
+    "timestamp": "2026-10-03T04:15:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000238",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 271,
+    "price": 1248.47,
+    "timestamp": "2026-10-02T02:11:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000239",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 974,
+    "price": 1247.32,
+    "timestamp": "2026-10-07T07:51:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000240",
+    "client": "Client Epsilon",
+    "symbol": "BHARTIARTL",
+    "quantity": 137,
+    "price": 1822.02,
+    "timestamp": "2026-10-10T08:04:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000241",
+    "client": "Client Epsilon",
+    "symbol": "ICICIBANK",
+    "quantity": 542,
+    "price": 1243.74,
+    "timestamp": "2026-10-07T06:46:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000242",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 437,
+    "price": 1294.3,
+    "timestamp": "2026-10-05T04:40:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000243",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 75,
+    "price": 1501.71,
+    "timestamp": "2026-10-10T23:16:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000244",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 339,
+    "price": 699.92,
+    "timestamp": "2026-10-09T11:54:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000245",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 115,
+    "price": 1202.02,
+    "timestamp": "2026-10-04T06:59:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000246",
+    "client": "Client Epsilon",
+    "symbol": "HDFCBANK",
+    "quantity": 479,
+    "price": 1721.91,
+    "timestamp": "2026-10-07T08:31:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000247",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 138,
+    "price": 1519.93,
+    "timestamp": "2026-10-06T08:07:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000248",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 416,
+    "price": 1839.3,
+    "timestamp": "2026-10-02T06:56:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000249",
+    "client": "Client Eta",
+    "symbol": "RELIANCE",
+    "quantity": 768,
+    "price": 1444.02,
+    "timestamp": "2026-10-06T00:12:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000250",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 166,
+    "price": 1527.66,
+    "timestamp": "2026-10-08T06:35:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000251",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 291,
+    "price": 1965.18,
+    "timestamp": "2026-10-13T07:52:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000252",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 227,
+    "price": 1794.18,
+    "timestamp": "2026-10-02T14:48:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000253",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 74,
+    "price": 1248.51,
+    "timestamp": "2026-10-10T16:49:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000254",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 973,
+    "price": 432.85,
+    "timestamp": "2026-10-10T07:11:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000255",
+    "client": "Client Delta",
+    "symbol": "TATAMOTORS",
+    "quantity": 311,
+    "price": 725.28,
+    "timestamp": "2026-10-09T12:07:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000256",
+    "client": "Client Gamma",
+    "symbol": "ITC",
+    "quantity": 607,
+    "price": 453.29,
+    "timestamp": "2026-10-06T06:22:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000257",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 272,
+    "price": 3570.02,
+    "timestamp": "2026-10-10T10:54:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000258",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 211,
+    "price": 3678.97,
+    "timestamp": "2026-10-03T14:30:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000259",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 687,
+    "price": 3727.66,
+    "timestamp": "2026-10-09T11:07:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000260",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 347,
+    "price": 1564.47,
+    "timestamp": "2026-10-05T03:56:31.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000261",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 74,
+    "price": 883.61,
+    "timestamp": "2026-10-05T20:50:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000262",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 188,
+    "price": 1397.17,
+    "timestamp": "2026-10-05T15:30:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000263",
+    "client": "Client Iota",
+    "symbol": "TATAMOTORS",
+    "quantity": 76,
+    "price": 687.39,
+    "timestamp": "2026-10-12T04:11:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000264",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 639,
+    "price": 732.87,
+    "timestamp": "2026-10-02T13:10:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000265",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 442,
+    "price": 3457.68,
+    "timestamp": "2026-10-04T01:32:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000266",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 96,
+    "price": 431.8,
+    "timestamp": "2026-10-11T04:08:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000267",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 31,
+    "price": 854.78,
+    "timestamp": "2026-10-11T05:04:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000268",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 727,
+    "price": 1553.15,
+    "timestamp": "2026-10-04T09:26:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000269",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 686,
+    "price": 1389.66,
+    "timestamp": "2026-10-01T10:36:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000270",
+    "client": "Client Kappa",
+    "symbol": "ITC",
+    "quantity": 201,
+    "price": 429.89,
+    "timestamp": "2026-10-03T16:36:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000271",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 832,
+    "price": 1686.11,
+    "timestamp": "2026-10-07T14:04:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000272",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 775,
+    "price": 3615.11,
+    "timestamp": "2026-10-12T06:22:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000273",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 853,
+    "price": 1456.84,
+    "timestamp": "2026-10-06T15:50:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000274",
+    "client": "Client Kappa",
+    "symbol": "LT",
+    "quantity": 456,
+    "price": 3707.61,
+    "timestamp": "2026-10-08T18:25:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000275",
+    "client": "Client Zeta",
+    "symbol": "TCS",
+    "quantity": 212,
+    "price": 3132.69,
+    "timestamp": "2026-10-02T07:00:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000276",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 797,
+    "price": 469.24,
+    "timestamp": "2026-10-06T13:55:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000277",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 630,
+    "price": 1561.01,
+    "timestamp": "2026-10-09T16:20:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000278",
+    "client": "Client Kappa",
+    "symbol": "ITC",
+    "quantity": 40,
+    "price": 453.09,
+    "timestamp": "2026-10-08T03:56:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000279",
+    "client": "Client Epsilon",
+    "symbol": "INFY",
+    "quantity": 447,
+    "price": 1514.04,
+    "timestamp": "2026-10-05T12:43:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000280",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 181,
+    "price": 1808.69,
+    "timestamp": "2026-10-11T03:13:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000281",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 164,
+    "price": 1461.8,
+    "timestamp": "2026-10-03T10:56:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000282",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 497,
+    "price": 1724.26,
+    "timestamp": "2026-10-07T17:10:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000283",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 214,
+    "price": 1414.87,
+    "timestamp": "2026-10-06T03:25:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000284",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 533,
+    "price": 1755.08,
+    "timestamp": "2026-10-03T19:50:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000285",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 164,
+    "price": 1401.54,
+    "timestamp": "2026-10-01T14:03:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000286",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 240,
+    "price": 466.71,
+    "timestamp": "2026-10-03T05:25:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000287",
+    "client": "Client Delta",
+    "symbol": "TATAMOTORS",
+    "quantity": 329,
+    "price": 688.85,
+    "timestamp": "2026-10-07T23:21:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000288",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 436,
+    "price": 1515.51,
+    "timestamp": "2026-10-03T22:06:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000289",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 475,
+    "price": 1807.03,
+    "timestamp": "2026-10-08T23:40:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000290",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 522,
+    "price": 456.03,
+    "timestamp": "2026-10-08T02:19:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000291",
+    "client": "Client Zeta",
+    "symbol": "INFY",
+    "quantity": 251,
+    "price": 1465.76,
+    "timestamp": "2026-10-09T18:14:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000292",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 983,
+    "price": 1894.01,
+    "timestamp": "2026-10-08T02:27:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000293",
+    "client": "Client Epsilon",
+    "symbol": "HDFCBANK",
+    "quantity": 617,
+    "price": 1704.01,
+    "timestamp": "2026-10-04T17:33:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000294",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 72,
+    "price": 1415.61,
+    "timestamp": "2026-10-10T12:50:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000295",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 153,
+    "price": 839.99,
+    "timestamp": "2026-10-11T22:08:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000296",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 903,
+    "price": 1256.74,
+    "timestamp": "2026-10-08T19:19:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000297",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 330,
+    "price": 1785.05,
+    "timestamp": "2026-10-06T01:35:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000298",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 190,
+    "price": 1506.5,
+    "timestamp": "2026-10-03T05:28:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000299",
+    "client": "Client Beta",
+    "symbol": "TATAMOTORS",
+    "quantity": 347,
+    "price": 725.12,
+    "timestamp": "2026-10-03T08:58:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000300",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 873,
+    "price": 1255.05,
+    "timestamp": "2026-10-01T20:46:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000301",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 582,
+    "price": 1474.26,
+    "timestamp": "2026-10-04T15:45:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000302",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 506,
+    "price": 1810.68,
+    "timestamp": "2026-10-01T21:28:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000303",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 481,
+    "price": 3682.67,
+    "timestamp": "2026-10-12T00:19:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000304",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 914,
+    "price": 1547.98,
+    "timestamp": "2026-10-05T21:21:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000305",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 431,
+    "price": 1711.73,
+    "timestamp": "2026-10-05T12:34:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000306",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 312,
+    "price": 1704.72,
+    "timestamp": "2026-10-05T12:06:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000307",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 81,
+    "price": 3722.55,
+    "timestamp": "2026-10-10T22:15:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000308",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 456,
+    "price": 1468.12,
+    "timestamp": "2026-10-05T17:32:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000309",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 599,
+    "price": 3247.39,
+    "timestamp": "2026-10-10T03:29:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000310",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 178,
+    "price": 824.9,
+    "timestamp": "2026-10-13T07:53:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000311",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 366,
+    "price": 1301.32,
+    "timestamp": "2026-10-11T05:16:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000312",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 138,
+    "price": 1452.82,
+    "timestamp": "2026-10-06T20:00:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000313",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 209,
+    "price": 460.72,
+    "timestamp": "2026-10-02T22:33:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000314",
+    "client": "Client Iota",
+    "symbol": "SBIN",
+    "quantity": 526,
+    "price": 863.05,
+    "timestamp": "2026-10-11T01:20:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000315",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 779,
+    "price": 3078.17,
+    "timestamp": "2026-10-08T01:33:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000316",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 247,
+    "price": 665.41,
+    "timestamp": "2026-10-12T05:25:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000317",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 448,
+    "price": 1685.71,
+    "timestamp": "2026-10-01T17:44:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000318",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 540,
+    "price": 1434.69,
+    "timestamp": "2026-10-06T19:54:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000319",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 676,
+    "price": 839.32,
+    "timestamp": "2026-10-04T18:48:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000320",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 262,
+    "price": 715.68,
+    "timestamp": "2026-10-10T11:05:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000321",
+    "client": "Client Eta",
+    "symbol": "TCS",
+    "quantity": 72,
+    "price": 3113.2,
+    "timestamp": "2026-10-05T13:30:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000322",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 73,
+    "price": 3700.84,
+    "timestamp": "2026-10-06T04:10:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000323",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 553,
+    "price": 1521.32,
+    "timestamp": "2026-10-08T03:14:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000324",
+    "client": "Client Zeta",
+    "symbol": "TCS",
+    "quantity": 649,
+    "price": 3311.9,
+    "timestamp": "2026-10-11T01:07:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000325",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 358,
+    "price": 1254.11,
+    "timestamp": "2026-10-01T20:46:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000326",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 392,
+    "price": 1457.32,
+    "timestamp": "2026-10-11T01:39:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000327",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 723,
+    "price": 1880.33,
+    "timestamp": "2026-10-10T21:39:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000328",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 623,
+    "price": 1252.51,
+    "timestamp": "2026-10-02T02:05:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000329",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 85,
+    "price": 3671.28,
+    "timestamp": "2026-10-03T08:19:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000330",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 380,
+    "price": 1804.82,
+    "timestamp": "2026-10-09T18:21:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000331",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 778,
+    "price": 3284.35,
+    "timestamp": "2026-10-10T17:37:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000332",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 35,
+    "price": 1975.67,
+    "timestamp": "2026-10-10T19:50:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000333",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 333,
+    "price": 1776.85,
+    "timestamp": "2026-10-02T08:27:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000334",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 109,
+    "price": 1284.8,
+    "timestamp": "2026-10-05T04:45:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000335",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 430,
+    "price": 1509.77,
+    "timestamp": "2026-10-03T10:37:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000336",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 233,
+    "price": 3307.5,
+    "timestamp": "2026-10-10T23:39:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000337",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 861,
+    "price": 1679.02,
+    "timestamp": "2026-10-03T11:47:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000338",
+    "client": "Client Kappa",
+    "symbol": "ITC",
+    "quantity": 533,
+    "price": 470.72,
+    "timestamp": "2026-10-13T08:01:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000339",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 700,
+    "price": 1893.27,
+    "timestamp": "2026-10-13T06:44:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000340",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 804,
+    "price": 3166.01,
+    "timestamp": "2026-10-02T08:58:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000341",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 827,
+    "price": 1673.38,
+    "timestamp": "2026-10-03T07:01:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000342",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 779,
+    "price": 3647.23,
+    "timestamp": "2026-10-06T03:12:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000343",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 373,
+    "price": 1460.7,
+    "timestamp": "2026-10-08T22:46:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000344",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 795,
+    "price": 1789.16,
+    "timestamp": "2026-10-07T16:56:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000345",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 922,
+    "price": 1209.11,
+    "timestamp": "2026-10-06T21:55:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000346",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 825,
+    "price": 1816.92,
+    "timestamp": "2026-10-08T13:06:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000347",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 680,
+    "price": 890.71,
+    "timestamp": "2026-10-03T14:08:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000348",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 512,
+    "price": 1817.07,
+    "timestamp": "2026-10-11T19:14:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000349",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 130,
+    "price": 723.95,
+    "timestamp": "2026-10-05T11:33:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000350",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 938,
+    "price": 3325.72,
+    "timestamp": "2026-10-09T21:41:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000351",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 542,
+    "price": 848.74,
+    "timestamp": "2026-10-05T21:14:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000352",
+    "client": "Client Beta",
+    "symbol": "SBIN",
+    "quantity": 225,
+    "price": 825.42,
+    "timestamp": "2026-10-07T15:27:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000353",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 732,
+    "price": 451.25,
+    "timestamp": "2026-10-11T22:43:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000354",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 158,
+    "price": 468.83,
+    "timestamp": "2026-10-04T23:09:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000355",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 973,
+    "price": 882.69,
+    "timestamp": "2026-10-04T10:01:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000356",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 127,
+    "price": 3714.19,
+    "timestamp": "2026-10-08T12:39:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000357",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 9,
+    "price": 1815.08,
+    "timestamp": "2026-10-10T01:11:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000358",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 236,
+    "price": 871.04,
+    "timestamp": "2026-10-07T15:16:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000359",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 387,
+    "price": 1786.43,
+    "timestamp": "2026-10-05T03:20:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000360",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 143,
+    "price": 701.79,
+    "timestamp": "2026-10-06T14:27:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000361",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 11,
+    "price": 1909.6,
+    "timestamp": "2026-10-07T07:18:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000362",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 250,
+    "price": 1969.34,
+    "timestamp": "2026-10-06T23:15:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000363",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 41,
+    "price": 1467.76,
+    "timestamp": "2026-10-10T18:08:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000364",
+    "client": "Client Gamma",
+    "symbol": "LT",
+    "quantity": 646,
+    "price": 3599.19,
+    "timestamp": "2026-10-11T14:16:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000365",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 334,
+    "price": 1888.46,
+    "timestamp": "2026-10-05T19:17:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000366",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 363,
+    "price": 723.83,
+    "timestamp": "2026-10-09T10:27:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000367",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 737,
+    "price": 1379.93,
+    "timestamp": "2026-10-03T02:32:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000368",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 432,
+    "price": 3137.8,
+    "timestamp": "2026-10-07T22:03:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000369",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 521,
+    "price": 3082.86,
+    "timestamp": "2026-10-03T21:31:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000370",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 510,
+    "price": 3427.99,
+    "timestamp": "2026-10-03T07:23:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000371",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 538,
+    "price": 1290.65,
+    "timestamp": "2026-10-08T05:03:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000372",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 209,
+    "price": 3548.21,
+    "timestamp": "2026-10-10T08:39:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000373",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 425,
+    "price": 1228.47,
+    "timestamp": "2026-10-08T11:08:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000374",
+    "client": "Client Epsilon",
+    "symbol": "HDFCBANK",
+    "quantity": 934,
+    "price": 1766.42,
+    "timestamp": "2026-10-04T03:57:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000375",
+    "client": "Client Epsilon",
+    "symbol": "ICICIBANK",
+    "quantity": 738,
+    "price": 1277.78,
+    "timestamp": "2026-10-11T20:26:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000376",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 511,
+    "price": 1436.64,
+    "timestamp": "2026-10-09T08:14:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000377",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 417,
+    "price": 887.54,
+    "timestamp": "2026-10-04T17:07:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000378",
+    "client": "Client Iota",
+    "symbol": "TATAMOTORS",
+    "quantity": 789,
+    "price": 667.67,
+    "timestamp": "2026-10-10T02:37:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000379",
+    "client": "Client Epsilon",
+    "symbol": "RELIANCE",
+    "quantity": 496,
+    "price": 1389.56,
+    "timestamp": "2026-10-10T22:23:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000380",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 309,
+    "price": 821.12,
+    "timestamp": "2026-10-06T23:33:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000381",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 934,
+    "price": 3128.16,
+    "timestamp": "2026-10-03T10:35:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000382",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 907,
+    "price": 3270.09,
+    "timestamp": "2026-10-09T17:38:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000383",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 290,
+    "price": 1282.22,
+    "timestamp": "2026-10-09T12:17:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000384",
+    "client": "Client Iota",
+    "symbol": "TCS",
+    "quantity": 699,
+    "price": 3249.6,
+    "timestamp": "2026-10-09T13:28:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000385",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 614,
+    "price": 1439.47,
+    "timestamp": "2026-10-05T21:27:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000386",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 171,
+    "price": 1278.85,
+    "timestamp": "2026-10-11T02:23:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000387",
+    "client": "Client Theta",
+    "symbol": "ITC",
+    "quantity": 66,
+    "price": 452.51,
+    "timestamp": "2026-10-09T06:55:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000388",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 746,
+    "price": 861.52,
+    "timestamp": "2026-10-06T01:27:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000389",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 778,
+    "price": 1741.28,
+    "timestamp": "2026-10-03T17:17:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000390",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 106,
+    "price": 1905.85,
+    "timestamp": "2026-10-11T19:45:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000391",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 136,
+    "price": 1397.83,
+    "timestamp": "2026-10-12T10:24:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000392",
+    "client": "Client Epsilon",
+    "symbol": "SBIN",
+    "quantity": 138,
+    "price": 874.42,
+    "timestamp": "2026-10-04T06:17:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000393",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 299,
+    "price": 837.86,
+    "timestamp": "2026-10-09T13:25:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000394",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 916,
+    "price": 1532.52,
+    "timestamp": "2026-10-08T15:12:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000395",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 208,
+    "price": 3711.55,
+    "timestamp": "2026-10-07T15:51:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000396",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 789,
+    "price": 1988.22,
+    "timestamp": "2026-10-07T03:19:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000397",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 766,
+    "price": 845.32,
+    "timestamp": "2026-10-03T13:09:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000398",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 574,
+    "price": 728.58,
+    "timestamp": "2026-10-07T09:37:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000399",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 891,
+    "price": 1428.19,
+    "timestamp": "2026-10-02T23:42:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000400",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 18,
+    "price": 721.59,
+    "timestamp": "2026-10-02T15:48:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000401",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 500,
+    "price": 3447.22,
+    "timestamp": "2026-10-12T07:24:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000402",
+    "client": "Client Iota",
+    "symbol": "TCS",
+    "quantity": 947,
+    "price": 3301.25,
+    "timestamp": "2026-10-08T09:59:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000403",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 707,
+    "price": 3265.34,
+    "timestamp": "2026-10-02T13:44:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000404",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 975,
+    "price": 1750.29,
+    "timestamp": "2026-10-12T17:27:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000405",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 415,
+    "price": 1561.09,
+    "timestamp": "2026-10-02T17:29:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000406",
+    "client": "Client Kappa",
+    "symbol": "TATAMOTORS",
+    "quantity": 229,
+    "price": 666.33,
+    "timestamp": "2026-10-09T00:25:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000407",
+    "client": "Client Epsilon",
+    "symbol": "INFY",
+    "quantity": 905,
+    "price": 1474.39,
+    "timestamp": "2026-10-01T19:47:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000408",
+    "client": "Client Beta",
+    "symbol": "ITC",
+    "quantity": 559,
+    "price": 441.77,
+    "timestamp": "2026-10-05T05:17:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000409",
+    "client": "Client Kappa",
+    "symbol": "LT",
+    "quantity": 865,
+    "price": 3618.38,
+    "timestamp": "2026-10-05T17:30:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000410",
+    "client": "Client Gamma",
+    "symbol": "LT",
+    "quantity": 617,
+    "price": 3698.07,
+    "timestamp": "2026-10-03T09:51:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000411",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 898,
+    "price": 1245.14,
+    "timestamp": "2026-10-05T13:54:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000412",
+    "client": "Client Delta",
+    "symbol": "ITC",
+    "quantity": 312,
+    "price": 451.24,
+    "timestamp": "2026-10-04T01:41:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000413",
+    "client": "Client Beta",
+    "symbol": "ITC",
+    "quantity": 965,
+    "price": 436.22,
+    "timestamp": "2026-10-01T22:49:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000414",
+    "client": "Client Gamma",
+    "symbol": "BHARTIARTL",
+    "quantity": 904,
+    "price": 1835.52,
+    "timestamp": "2026-10-07T12:34:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000415",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 800,
+    "price": 814.54,
+    "timestamp": "2026-10-11T21:03:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000416",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 602,
+    "price": 1483.08,
+    "timestamp": "2026-10-05T00:22:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000417",
+    "client": "Client Eta",
+    "symbol": "TATAMOTORS",
+    "quantity": 203,
+    "price": 676.63,
+    "timestamp": "2026-10-06T22:34:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000418",
+    "client": "Client Kappa",
+    "symbol": "TATAMOTORS",
+    "quantity": 549,
+    "price": 693.1,
+    "timestamp": "2026-10-11T16:18:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000419",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 927,
+    "price": 3620.41,
+    "timestamp": "2026-10-07T05:24:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000420",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 66,
+    "price": 3283.28,
+    "timestamp": "2026-10-07T21:35:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000421",
+    "client": "Client Eta",
+    "symbol": "SBIN",
+    "quantity": 226,
+    "price": 810.59,
+    "timestamp": "2026-10-09T22:46:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000422",
+    "client": "Client Theta",
+    "symbol": "TCS",
+    "quantity": 915,
+    "price": 3234.82,
+    "timestamp": "2026-10-03T15:46:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000423",
+    "client": "Client Iota",
+    "symbol": "TATAMOTORS",
+    "quantity": 866,
+    "price": 680.09,
+    "timestamp": "2026-10-09T02:23:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000424",
+    "client": "Client Theta",
+    "symbol": "RELIANCE",
+    "quantity": 557,
+    "price": 1513.43,
+    "timestamp": "2026-10-08T23:53:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000425",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 479,
+    "price": 1942.06,
+    "timestamp": "2026-10-02T08:23:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000426",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 386,
+    "price": 1732.61,
+    "timestamp": "2026-10-03T02:45:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000427",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 172,
+    "price": 3220.56,
+    "timestamp": "2026-10-03T18:57:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000428",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 396,
+    "price": 1235.94,
+    "timestamp": "2026-10-10T15:44:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000429",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 766,
+    "price": 3439.34,
+    "timestamp": "2026-10-02T00:04:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000430",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 543,
+    "price": 1406.31,
+    "timestamp": "2026-10-07T08:04:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000431",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 902,
+    "price": 1567.26,
+    "timestamp": "2026-10-02T05:37:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000432",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 834,
+    "price": 461.2,
+    "timestamp": "2026-10-01T16:04:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000433",
+    "client": "Client Kappa",
+    "symbol": "LT",
+    "quantity": 658,
+    "price": 3626.67,
+    "timestamp": "2026-10-06T16:38:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000434",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 911,
+    "price": 3230.13,
+    "timestamp": "2026-10-03T02:52:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000435",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 958,
+    "price": 3503.0,
+    "timestamp": "2026-10-12T17:42:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000436",
+    "client": "Client Kappa",
+    "symbol": "TATAMOTORS",
+    "quantity": 418,
+    "price": 723.95,
+    "timestamp": "2026-10-09T19:12:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000437",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 26,
+    "price": 1801.63,
+    "timestamp": "2026-10-08T14:04:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000438",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 530,
+    "price": 3450.18,
+    "timestamp": "2026-10-13T01:29:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000439",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 503,
+    "price": 1247.1,
+    "timestamp": "2026-10-04T18:51:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000440",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 399,
+    "price": 1430.78,
+    "timestamp": "2026-10-11T19:02:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000441",
+    "client": "Client Alpha",
+    "symbol": "TCS",
+    "quantity": 896,
+    "price": 3115.58,
+    "timestamp": "2026-10-10T06:17:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000442",
+    "client": "Client Epsilon",
+    "symbol": "SBIN",
+    "quantity": 553,
+    "price": 816.3,
+    "timestamp": "2026-10-04T21:08:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000443",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 910,
+    "price": 1407.62,
+    "timestamp": "2026-10-09T07:42:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000444",
+    "client": "Client Theta",
+    "symbol": "RELIANCE",
+    "quantity": 79,
+    "price": 1417.01,
+    "timestamp": "2026-10-12T09:28:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000445",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 755,
+    "price": 1945.65,
+    "timestamp": "2026-10-06T03:38:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000446",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 893,
+    "price": 461.09,
+    "timestamp": "2026-10-03T10:46:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000447",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 962,
+    "price": 1503.67,
+    "timestamp": "2026-10-07T02:51:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000448",
+    "client": "Client Kappa",
+    "symbol": "ITC",
+    "quantity": 62,
+    "price": 466.79,
+    "timestamp": "2026-10-02T16:12:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000449",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 908,
+    "price": 695.33,
+    "timestamp": "2026-10-02T21:02:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000450",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 508,
+    "price": 853.24,
+    "timestamp": "2026-10-12T17:44:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000451",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 689,
+    "price": 1435.35,
+    "timestamp": "2026-10-12T03:49:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000452",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 559,
+    "price": 1555.34,
+    "timestamp": "2026-10-07T19:29:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000453",
+    "client": "Client Eta",
+    "symbol": "RELIANCE",
+    "quantity": 227,
+    "price": 1402.3,
+    "timestamp": "2026-10-02T01:16:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000454",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 78,
+    "price": 1979.46,
+    "timestamp": "2026-10-09T09:36:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000455",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 750,
+    "price": 1305.43,
+    "timestamp": "2026-10-01T15:13:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000456",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 522,
+    "price": 1451.63,
+    "timestamp": "2026-10-01T21:29:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000457",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 731,
+    "price": 1986.99,
+    "timestamp": "2026-10-05T19:47:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000458",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 817,
+    "price": 1397.69,
+    "timestamp": "2026-10-09T19:17:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000459",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 9,
+    "price": 1272.86,
+    "timestamp": "2026-10-09T02:42:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000460",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 867,
+    "price": 3571.61,
+    "timestamp": "2026-10-05T02:02:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000461",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 59,
+    "price": 1474.24,
+    "timestamp": "2026-10-09T09:28:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000462",
+    "client": "Client Eta",
+    "symbol": "TATAMOTORS",
+    "quantity": 900,
+    "price": 701.99,
+    "timestamp": "2026-10-02T23:15:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000463",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 842,
+    "price": 1453.1,
+    "timestamp": "2026-10-11T08:58:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000464",
+    "client": "Client Gamma",
+    "symbol": "LT",
+    "quantity": 248,
+    "price": 3642.23,
+    "timestamp": "2026-10-02T18:03:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000465",
+    "client": "Client Zeta",
+    "symbol": "TCS",
+    "quantity": 176,
+    "price": 3215.24,
+    "timestamp": "2026-10-11T23:09:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000466",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 573,
+    "price": 1750.2,
+    "timestamp": "2026-10-11T02:43:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000467",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 768,
+    "price": 431.59,
+    "timestamp": "2026-10-04T18:54:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000468",
+    "client": "Client Eta",
+    "symbol": "TCS",
+    "quantity": 244,
+    "price": 3145.28,
+    "timestamp": "2026-10-09T18:20:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000469",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 656,
+    "price": 1967.68,
+    "timestamp": "2026-10-01T14:08:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000470",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 451,
+    "price": 1241.74,
+    "timestamp": "2026-10-07T10:38:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000471",
+    "client": "Client Theta",
+    "symbol": "TCS",
+    "quantity": 155,
+    "price": 3111.64,
+    "timestamp": "2026-10-11T20:14:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000472",
+    "client": "Client Iota",
+    "symbol": "TCS",
+    "quantity": 950,
+    "price": 3232.99,
+    "timestamp": "2026-10-02T13:08:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000473",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 658,
+    "price": 1861.37,
+    "timestamp": "2026-10-03T22:47:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000474",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 793,
+    "price": 1201.01,
+    "timestamp": "2026-10-03T10:15:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000475",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 757,
+    "price": 1781.73,
+    "timestamp": "2026-10-06T18:21:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000476",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 73,
+    "price": 1493.72,
+    "timestamp": "2026-10-02T04:46:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000477",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 602,
+    "price": 698.74,
+    "timestamp": "2026-10-02T19:30:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000478",
+    "client": "Client Delta",
+    "symbol": "TATAMOTORS",
+    "quantity": 69,
+    "price": 729.57,
+    "timestamp": "2026-10-02T17:52:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000479",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 615,
+    "price": 1308.45,
+    "timestamp": "2026-10-06T10:45:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000480",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 873,
+    "price": 1486.44,
+    "timestamp": "2026-10-06T11:22:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000481",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 579,
+    "price": 1247.3,
+    "timestamp": "2026-10-12T23:12:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000482",
+    "client": "Client Delta",
+    "symbol": "TATAMOTORS",
+    "quantity": 226,
+    "price": 699.32,
+    "timestamp": "2026-10-04T08:34:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000483",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 751,
+    "price": 1205.85,
+    "timestamp": "2026-10-07T21:18:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000484",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 380,
+    "price": 3570.67,
+    "timestamp": "2026-10-03T17:30:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000485",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 64,
+    "price": 728.01,
+    "timestamp": "2026-10-12T16:45:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000486",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 994,
+    "price": 1548.07,
+    "timestamp": "2026-10-06T22:49:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000487",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 835,
+    "price": 1469.59,
+    "timestamp": "2026-10-09T03:51:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000488",
+    "client": "Client Theta",
+    "symbol": "TCS",
+    "quantity": 720,
+    "price": 3238.66,
+    "timestamp": "2026-10-11T21:26:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000489",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 465,
+    "price": 1228.93,
+    "timestamp": "2026-10-09T03:22:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000490",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 582,
+    "price": 3446.6,
+    "timestamp": "2026-10-02T01:10:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000491",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 363,
+    "price": 3641.93,
+    "timestamp": "2026-10-03T04:51:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000492",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 581,
+    "price": 1959.48,
+    "timestamp": "2026-10-02T21:05:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000493",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 406,
+    "price": 1720.95,
+    "timestamp": "2026-10-08T13:51:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000494",
+    "client": "Client Epsilon",
+    "symbol": "INFY",
+    "quantity": 86,
+    "price": 1564.52,
+    "timestamp": "2026-10-04T08:33:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000495",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 220,
+    "price": 1284.0,
+    "timestamp": "2026-10-03T17:28:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000496",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 36,
+    "price": 3685.87,
+    "timestamp": "2026-10-04T14:58:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000497",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 118,
+    "price": 1481.66,
+    "timestamp": "2026-10-11T09:20:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000498",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 39,
+    "price": 669.15,
+    "timestamp": "2026-10-03T08:47:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000499",
+    "client": "Client Iota",
+    "symbol": "TATAMOTORS",
+    "quantity": 523,
+    "price": 696.8,
+    "timestamp": "2026-10-05T03:37:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000500",
+    "client": "Client Delta",
+    "symbol": "ITC",
+    "quantity": 248,
+    "price": 455.12,
+    "timestamp": "2026-10-06T09:36:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000501",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 31,
+    "price": 3061.77,
+    "timestamp": "2026-10-07T06:50:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000502",
+    "client": "Client Beta",
+    "symbol": "SBIN",
+    "quantity": 707,
+    "price": 822.82,
+    "timestamp": "2026-10-08T16:12:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000503",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 543,
+    "price": 1215.53,
+    "timestamp": "2026-10-11T02:56:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000504",
+    "client": "Client Delta",
+    "symbol": "TATAMOTORS",
+    "quantity": 264,
+    "price": 689.85,
+    "timestamp": "2026-10-12T02:36:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000505",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 214,
+    "price": 3155.15,
+    "timestamp": "2026-10-09T00:06:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000506",
+    "client": "Client Zeta",
+    "symbol": "HDFCBANK",
+    "quantity": 884,
+    "price": 1789.34,
+    "timestamp": "2026-10-03T00:39:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000507",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 584,
+    "price": 869.87,
+    "timestamp": "2026-10-07T16:41:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000508",
+    "client": "Client Beta",
+    "symbol": "TATAMOTORS",
+    "quantity": 668,
+    "price": 703.35,
+    "timestamp": "2026-10-08T20:11:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000509",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 386,
+    "price": 1425.59,
+    "timestamp": "2026-10-08T10:47:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000510",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 68,
+    "price": 3290.3,
+    "timestamp": "2026-10-02T02:17:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000511",
+    "client": "Client Delta",
+    "symbol": "INFY",
+    "quantity": 287,
+    "price": 1569.38,
+    "timestamp": "2026-10-10T18:59:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000512",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 91,
+    "price": 1811.15,
+    "timestamp": "2026-10-08T17:05:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000513",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 444,
+    "price": 1229.21,
+    "timestamp": "2026-10-03T20:55:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000514",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 446,
+    "price": 871.58,
+    "timestamp": "2026-10-10T00:02:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000515",
+    "client": "Client Theta",
+    "symbol": "RELIANCE",
+    "quantity": 696,
+    "price": 1446.06,
+    "timestamp": "2026-10-06T00:14:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000516",
+    "client": "Client Beta",
+    "symbol": "TATAMOTORS",
+    "quantity": 854,
+    "price": 680.57,
+    "timestamp": "2026-10-03T18:16:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000517",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 854,
+    "price": 1807.76,
+    "timestamp": "2026-10-02T15:17:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000518",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 277,
+    "price": 859.4,
+    "timestamp": "2026-10-07T14:29:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000519",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 30,
+    "price": 1894.17,
+    "timestamp": "2026-10-09T07:34:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000520",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 575,
+    "price": 1757.29,
+    "timestamp": "2026-10-08T01:04:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000521",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 13,
+    "price": 834.59,
+    "timestamp": "2026-10-11T17:57:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000522",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 384,
+    "price": 719.34,
+    "timestamp": "2026-10-03T02:09:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000523",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 285,
+    "price": 1240.21,
+    "timestamp": "2026-10-03T00:56:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000524",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 424,
+    "price": 436.63,
+    "timestamp": "2026-10-04T12:29:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000525",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 199,
+    "price": 1860.96,
+    "timestamp": "2026-10-12T01:21:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000526",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 440,
+    "price": 3752.02,
+    "timestamp": "2026-10-07T16:47:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000527",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 501,
+    "price": 3693.48,
+    "timestamp": "2026-10-11T16:21:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000528",
+    "client": "Client Theta",
+    "symbol": "TCS",
+    "quantity": 951,
+    "price": 3346.02,
+    "timestamp": "2026-10-12T09:18:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000529",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 143,
+    "price": 1733.76,
+    "timestamp": "2026-10-07T02:11:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000530",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 331,
+    "price": 1477.2,
+    "timestamp": "2026-10-12T04:44:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000531",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 793,
+    "price": 698.31,
+    "timestamp": "2026-10-04T16:30:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000532",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 395,
+    "price": 1279.17,
+    "timestamp": "2026-10-11T13:47:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000533",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 654,
+    "price": 3596.4,
+    "timestamp": "2026-10-05T14:00:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000534",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 829,
+    "price": 1398.89,
+    "timestamp": "2026-10-02T23:04:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000535",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 255,
+    "price": 1829.07,
+    "timestamp": "2026-10-07T17:05:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000536",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 561,
+    "price": 1403.78,
+    "timestamp": "2026-10-05T06:35:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000537",
+    "client": "Client Delta",
+    "symbol": "ITC",
+    "quantity": 413,
+    "price": 446.11,
+    "timestamp": "2026-10-06T04:45:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000538",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 233,
+    "price": 1518.85,
+    "timestamp": "2026-10-06T05:27:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000539",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 995,
+    "price": 3757.42,
+    "timestamp": "2026-10-11T04:39:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000540",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 792,
+    "price": 1880.89,
+    "timestamp": "2026-10-01T21:15:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000541",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 458,
+    "price": 1213.88,
+    "timestamp": "2026-10-03T02:50:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000542",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 254,
+    "price": 670.62,
+    "timestamp": "2026-10-10T07:37:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000543",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 502,
+    "price": 3443.08,
+    "timestamp": "2026-10-08T02:40:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000544",
+    "client": "Client Beta",
+    "symbol": "TATAMOTORS",
+    "quantity": 506,
+    "price": 695.51,
+    "timestamp": "2026-10-02T02:53:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000545",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 382,
+    "price": 1860.0,
+    "timestamp": "2026-10-02T15:32:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000546",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 854,
+    "price": 1413.05,
+    "timestamp": "2026-10-08T23:49:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000547",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 586,
+    "price": 1309.66,
+    "timestamp": "2026-10-10T13:22:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000548",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 852,
+    "price": 1409.52,
+    "timestamp": "2026-10-12T10:26:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000549",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 322,
+    "price": 1558.85,
+    "timestamp": "2026-10-07T02:20:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000550",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 688,
+    "price": 1741.83,
+    "timestamp": "2026-10-01T11:07:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000551",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 512,
+    "price": 1189.23,
+    "timestamp": "2026-10-03T18:06:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000552",
+    "client": "Client Alpha",
+    "symbol": "SBIN",
+    "quantity": 242,
+    "price": 846.53,
+    "timestamp": "2026-10-06T22:43:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000553",
+    "client": "Client Alpha",
+    "symbol": "TCS",
+    "quantity": 804,
+    "price": 3330.14,
+    "timestamp": "2026-10-07T03:49:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000554",
+    "client": "Client Theta",
+    "symbol": "RELIANCE",
+    "quantity": 639,
+    "price": 1382.26,
+    "timestamp": "2026-10-09T06:38:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000555",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 278,
+    "price": 1451.25,
+    "timestamp": "2026-10-07T05:33:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000556",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 572,
+    "price": 457.85,
+    "timestamp": "2026-10-07T11:52:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000557",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 669,
+    "price": 833.08,
+    "timestamp": "2026-10-09T06:14:31.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000558",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 545,
+    "price": 3147.51,
+    "timestamp": "2026-10-10T08:07:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000559",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 561,
+    "price": 1539.84,
+    "timestamp": "2026-10-10T14:43:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000560",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 475,
+    "price": 3447.31,
+    "timestamp": "2026-10-13T00:52:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000561",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 982,
+    "price": 3286.36,
+    "timestamp": "2026-10-05T19:50:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000562",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 854,
+    "price": 3695.87,
+    "timestamp": "2026-10-05T04:29:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000563",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 369,
+    "price": 1756.36,
+    "timestamp": "2026-10-08T12:10:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000564",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 791,
+    "price": 1720.91,
+    "timestamp": "2026-10-07T19:19:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000565",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 899,
+    "price": 1413.52,
+    "timestamp": "2026-10-05T17:46:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000566",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 11,
+    "price": 1433.59,
+    "timestamp": "2026-10-12T03:23:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000567",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 47,
+    "price": 1192.78,
+    "timestamp": "2026-10-05T18:30:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000568",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 702,
+    "price": 725.69,
+    "timestamp": "2026-10-01T14:15:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000569",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 759,
+    "price": 3254.32,
+    "timestamp": "2026-10-07T12:47:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000570",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 737,
+    "price": 3475.74,
+    "timestamp": "2026-10-07T09:16:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000571",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 977,
+    "price": 704.86,
+    "timestamp": "2026-10-11T05:17:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000572",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 496,
+    "price": 1730.67,
+    "timestamp": "2026-10-04T11:25:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000573",
+    "client": "Client Beta",
+    "symbol": "SBIN",
+    "quantity": 955,
+    "price": 854.59,
+    "timestamp": "2026-10-05T21:11:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000574",
+    "client": "Client Epsilon",
+    "symbol": "TATAMOTORS",
+    "quantity": 803,
+    "price": 668.71,
+    "timestamp": "2026-10-10T07:20:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000575",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 644,
+    "price": 1814.03,
+    "timestamp": "2026-10-05T21:03:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000576",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 262,
+    "price": 671.53,
+    "timestamp": "2026-10-03T16:15:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000577",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 697,
+    "price": 870.67,
+    "timestamp": "2026-10-03T08:42:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000578",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 653,
+    "price": 1233.0,
+    "timestamp": "2026-10-05T04:39:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000579",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 994,
+    "price": 1444.71,
+    "timestamp": "2026-10-08T18:30:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000580",
+    "client": "Client Alpha",
+    "symbol": "SBIN",
+    "quantity": 800,
+    "price": 839.69,
+    "timestamp": "2026-10-07T11:38:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000581",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 461,
+    "price": 1781.8,
+    "timestamp": "2026-10-08T05:48:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000582",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 821,
+    "price": 3244.96,
+    "timestamp": "2026-10-01T14:52:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000583",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 792,
+    "price": 1536.56,
+    "timestamp": "2026-10-06T23:40:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000584",
+    "client": "Client Theta",
+    "symbol": "ITC",
+    "quantity": 598,
+    "price": 454.59,
+    "timestamp": "2026-10-07T11:09:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000585",
+    "client": "Client Gamma",
+    "symbol": "LT",
+    "quantity": 303,
+    "price": 3742.32,
+    "timestamp": "2026-10-12T16:27:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000586",
+    "client": "Client Gamma",
+    "symbol": "LT",
+    "quantity": 205,
+    "price": 3699.86,
+    "timestamp": "2026-10-06T14:40:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000587",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 66,
+    "price": 449.48,
+    "timestamp": "2026-10-03T14:56:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000588",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 673,
+    "price": 1755.06,
+    "timestamp": "2026-10-01T10:01:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000589",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 499,
+    "price": 1700.17,
+    "timestamp": "2026-10-01T11:20:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000590",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 166,
+    "price": 1498.89,
+    "timestamp": "2026-10-09T10:16:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000591",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 859,
+    "price": 1462.46,
+    "timestamp": "2026-10-01T18:42:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000592",
+    "client": "Client Epsilon",
+    "symbol": "RELIANCE",
+    "quantity": 256,
+    "price": 1517.75,
+    "timestamp": "2026-10-09T07:23:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000593",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 315,
+    "price": 719.13,
+    "timestamp": "2026-10-06T10:59:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000594",
+    "client": "Client Theta",
+    "symbol": "ITC",
+    "quantity": 999,
+    "price": 429.57,
+    "timestamp": "2026-10-11T00:42:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000595",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 515,
+    "price": 3586.41,
+    "timestamp": "2026-10-03T19:41:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000596",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 216,
+    "price": 446.68,
+    "timestamp": "2026-10-09T20:57:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000597",
+    "client": "Client Theta",
+    "symbol": "TCS",
+    "quantity": 476,
+    "price": 3079.38,
+    "timestamp": "2026-10-06T17:19:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000598",
+    "client": "Client Iota",
+    "symbol": "TCS",
+    "quantity": 666,
+    "price": 3358.1,
+    "timestamp": "2026-10-01T17:51:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000599",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 999,
+    "price": 3112.22,
+    "timestamp": "2026-10-02T00:20:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000600",
+    "client": "Client Gamma",
+    "symbol": "ITC",
+    "quantity": 40,
+    "price": 437.78,
+    "timestamp": "2026-10-08T13:05:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000601",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 181,
+    "price": 1294.78,
+    "timestamp": "2026-10-02T16:58:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000602",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 569,
+    "price": 1485.66,
+    "timestamp": "2026-10-05T06:12:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000603",
+    "client": "Client Epsilon",
+    "symbol": "ICICIBANK",
+    "quantity": 366,
+    "price": 1196.28,
+    "timestamp": "2026-10-10T19:44:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000604",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 632,
+    "price": 862.16,
+    "timestamp": "2026-10-10T18:29:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000605",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 82,
+    "price": 3290.67,
+    "timestamp": "2026-10-06T16:11:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000606",
+    "client": "Client Epsilon",
+    "symbol": "BHARTIARTL",
+    "quantity": 947,
+    "price": 1967.42,
+    "timestamp": "2026-10-01T21:17:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000607",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 996,
+    "price": 674.58,
+    "timestamp": "2026-10-12T17:56:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000608",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 513,
+    "price": 836.94,
+    "timestamp": "2026-10-10T00:58:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000609",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 751,
+    "price": 3472.59,
+    "timestamp": "2026-10-06T16:32:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000610",
+    "client": "Client Delta",
+    "symbol": "ITC",
+    "quantity": 223,
+    "price": 455.52,
+    "timestamp": "2026-10-08T22:36:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000611",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 46,
+    "price": 1832.04,
+    "timestamp": "2026-10-05T02:03:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000612",
+    "client": "Client Epsilon",
+    "symbol": "ICICIBANK",
+    "quantity": 301,
+    "price": 1220.19,
+    "timestamp": "2026-10-06T11:45:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000613",
+    "client": "Client Kappa",
+    "symbol": "ITC",
+    "quantity": 819,
+    "price": 436.34,
+    "timestamp": "2026-10-10T00:26:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000614",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 334,
+    "price": 891.84,
+    "timestamp": "2026-10-07T21:38:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000615",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 899,
+    "price": 818.62,
+    "timestamp": "2026-10-10T18:12:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000616",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 783,
+    "price": 715.22,
+    "timestamp": "2026-10-06T19:51:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000617",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 878,
+    "price": 1705.32,
+    "timestamp": "2026-10-06T00:58:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000618",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 93,
+    "price": 440.7,
+    "timestamp": "2026-10-03T20:24:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000619",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 253,
+    "price": 666.85,
+    "timestamp": "2026-10-11T12:44:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000620",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 489,
+    "price": 1529.68,
+    "timestamp": "2026-10-04T20:11:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000621",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 673,
+    "price": 824.66,
+    "timestamp": "2026-10-11T14:30:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000622",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 943,
+    "price": 3600.31,
+    "timestamp": "2026-10-01T16:39:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000623",
+    "client": "Client Eta",
+    "symbol": "SBIN",
+    "quantity": 416,
+    "price": 869.23,
+    "timestamp": "2026-10-03T01:40:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000624",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 290,
+    "price": 3437.11,
+    "timestamp": "2026-10-09T08:30:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000625",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 820,
+    "price": 1416.35,
+    "timestamp": "2026-10-10T21:54:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000626",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 257,
+    "price": 1207.43,
+    "timestamp": "2026-10-04T12:05:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000627",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 169,
+    "price": 1719.5,
+    "timestamp": "2026-10-01T22:59:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000628",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 599,
+    "price": 1558.9,
+    "timestamp": "2026-10-07T11:02:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000629",
+    "client": "Client Eta",
+    "symbol": "TCS",
+    "quantity": 614,
+    "price": 3235.12,
+    "timestamp": "2026-10-02T02:24:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000630",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 393,
+    "price": 1818.28,
+    "timestamp": "2026-10-07T23:07:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000631",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 54,
+    "price": 1928.31,
+    "timestamp": "2026-10-06T22:25:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000632",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 562,
+    "price": 3726.25,
+    "timestamp": "2026-10-06T11:30:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000633",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 959,
+    "price": 1265.24,
+    "timestamp": "2026-10-04T18:05:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000634",
+    "client": "Client Eta",
+    "symbol": "RELIANCE",
+    "quantity": 783,
+    "price": 1502.44,
+    "timestamp": "2026-10-09T15:07:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000635",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 980,
+    "price": 1539.99,
+    "timestamp": "2026-10-13T03:35:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000636",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 975,
+    "price": 870.97,
+    "timestamp": "2026-10-02T19:06:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000637",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 216,
+    "price": 3167.3,
+    "timestamp": "2026-10-04T00:17:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000638",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 590,
+    "price": 1948.2,
+    "timestamp": "2026-10-13T07:54:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000639",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 195,
+    "price": 1485.15,
+    "timestamp": "2026-10-10T14:40:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000640",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 824,
+    "price": 1916.01,
+    "timestamp": "2026-10-08T07:38:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000641",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 735,
+    "price": 450.61,
+    "timestamp": "2026-10-05T14:47:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000642",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 723,
+    "price": 3491.57,
+    "timestamp": "2026-10-06T07:19:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000643",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 130,
+    "price": 714.04,
+    "timestamp": "2026-10-01T21:39:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000644",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 638,
+    "price": 3312.55,
+    "timestamp": "2026-10-08T11:58:40.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000645",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 821,
+    "price": 1495.85,
+    "timestamp": "2026-10-02T13:59:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000646",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 343,
+    "price": 1304.1,
+    "timestamp": "2026-10-01T14:49:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000647",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 90,
+    "price": 726.76,
+    "timestamp": "2026-10-11T02:22:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000648",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 717,
+    "price": 1215.13,
+    "timestamp": "2026-10-04T02:10:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000649",
+    "client": "Client Theta",
+    "symbol": "RELIANCE",
+    "quantity": 233,
+    "price": 1435.09,
+    "timestamp": "2026-10-07T18:25:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000650",
+    "client": "Client Beta",
+    "symbol": "ITC",
+    "quantity": 580,
+    "price": 450.05,
+    "timestamp": "2026-10-04T19:22:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000651",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 726,
+    "price": 1951.02,
+    "timestamp": "2026-10-10T17:35:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000652",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 985,
+    "price": 1282.41,
+    "timestamp": "2026-10-06T12:51:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000653",
+    "client": "Client Eta",
+    "symbol": "TCS",
+    "quantity": 763,
+    "price": 3115.24,
+    "timestamp": "2026-10-10T06:17:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000654",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 942,
+    "price": 1436.82,
+    "timestamp": "2026-10-09T12:56:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000655",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 520,
+    "price": 3143.19,
+    "timestamp": "2026-10-08T03:28:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000656",
+    "client": "Client Kappa",
+    "symbol": "TATAMOTORS",
+    "quantity": 991,
+    "price": 720.22,
+    "timestamp": "2026-10-11T13:42:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000657",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 432,
+    "price": 730.89,
+    "timestamp": "2026-10-02T01:02:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000658",
+    "client": "Client Epsilon",
+    "symbol": "HDFCBANK",
+    "quantity": 390,
+    "price": 1766.04,
+    "timestamp": "2026-10-03T00:56:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000659",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 722,
+    "price": 1706.68,
+    "timestamp": "2026-10-06T02:32:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000660",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 478,
+    "price": 1439.13,
+    "timestamp": "2026-10-09T03:20:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000661",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 204,
+    "price": 1941.38,
+    "timestamp": "2026-10-06T18:59:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000662",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 356,
+    "price": 887.2,
+    "timestamp": "2026-10-04T03:33:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000663",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 583,
+    "price": 431.05,
+    "timestamp": "2026-10-04T03:00:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000664",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 819,
+    "price": 1207.22,
+    "timestamp": "2026-10-04T22:15:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000665",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 330,
+    "price": 1386.61,
+    "timestamp": "2026-10-05T04:06:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000666",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 836,
+    "price": 891.82,
+    "timestamp": "2026-10-11T02:41:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000667",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 796,
+    "price": 1832.32,
+    "timestamp": "2026-10-10T11:55:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000668",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 511,
+    "price": 1457.52,
+    "timestamp": "2026-10-10T23:53:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000669",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 849,
+    "price": 1442.5,
+    "timestamp": "2026-10-11T01:00:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000670",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 701,
+    "price": 3490.56,
+    "timestamp": "2026-10-03T19:57:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000671",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 843,
+    "price": 712.41,
+    "timestamp": "2026-10-02T08:02:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000672",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 414,
+    "price": 1445.71,
+    "timestamp": "2026-10-06T04:01:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000673",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 878,
+    "price": 1305.5,
+    "timestamp": "2026-10-07T11:32:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000674",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 447,
+    "price": 1297.35,
+    "timestamp": "2026-10-10T23:29:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000675",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 963,
+    "price": 1395.77,
+    "timestamp": "2026-10-07T13:05:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000676",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 300,
+    "price": 827.49,
+    "timestamp": "2026-10-05T19:18:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000677",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 427,
+    "price": 440.08,
+    "timestamp": "2026-10-06T00:34:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000678",
+    "client": "Client Epsilon",
+    "symbol": "SBIN",
+    "quantity": 211,
+    "price": 823.0,
+    "timestamp": "2026-10-07T18:38:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000679",
+    "client": "Client Kappa",
+    "symbol": "TATAMOTORS",
+    "quantity": 650,
+    "price": 704.2,
+    "timestamp": "2026-10-10T00:33:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000680",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 460,
+    "price": 1481.35,
+    "timestamp": "2026-10-06T16:13:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000681",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 397,
+    "price": 1248.18,
+    "timestamp": "2026-10-06T10:57:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000682",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 710,
+    "price": 839.38,
+    "timestamp": "2026-10-11T02:46:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000683",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 590,
+    "price": 1499.53,
+    "timestamp": "2026-10-10T17:19:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000684",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 372,
+    "price": 1558.97,
+    "timestamp": "2026-10-05T22:17:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000685",
+    "client": "Client Eta",
+    "symbol": "RELIANCE",
+    "quantity": 130,
+    "price": 1472.04,
+    "timestamp": "2026-10-13T08:21:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000686",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 284,
+    "price": 1245.11,
+    "timestamp": "2026-10-04T11:05:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000687",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 962,
+    "price": 1253.07,
+    "timestamp": "2026-10-05T05:41:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000688",
+    "client": "Client Gamma",
+    "symbol": "ITC",
+    "quantity": 379,
+    "price": 440.41,
+    "timestamp": "2026-10-07T17:29:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000689",
+    "client": "Client Kappa",
+    "symbol": "INFY",
+    "quantity": 966,
+    "price": 1447.98,
+    "timestamp": "2026-10-07T23:04:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000690",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 482,
+    "price": 3465.86,
+    "timestamp": "2026-10-01T23:31:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000691",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 759,
+    "price": 1699.91,
+    "timestamp": "2026-10-10T14:12:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000692",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 867,
+    "price": 1391.25,
+    "timestamp": "2026-10-12T19:11:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000693",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 988,
+    "price": 1245.55,
+    "timestamp": "2026-10-13T04:28:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000694",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 303,
+    "price": 3547.66,
+    "timestamp": "2026-10-02T21:28:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000695",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 991,
+    "price": 1538.67,
+    "timestamp": "2026-10-06T06:37:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000696",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 95,
+    "price": 443.81,
+    "timestamp": "2026-10-02T07:21:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000697",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 837,
+    "price": 1559.81,
+    "timestamp": "2026-10-04T10:51:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000698",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 302,
+    "price": 1508.51,
+    "timestamp": "2026-10-05T03:19:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000699",
+    "client": "Client Beta",
+    "symbol": "ITC",
+    "quantity": 881,
+    "price": 427.77,
+    "timestamp": "2026-10-10T17:49:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000700",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 358,
+    "price": 1757.88,
+    "timestamp": "2026-10-04T16:34:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000701",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 174,
+    "price": 3280.54,
+    "timestamp": "2026-10-09T16:54:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000702",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 305,
+    "price": 3279.34,
+    "timestamp": "2026-10-05T21:12:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000703",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 781,
+    "price": 1677.13,
+    "timestamp": "2026-10-08T14:25:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000704",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 291,
+    "price": 3326.26,
+    "timestamp": "2026-10-13T07:59:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000705",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 503,
+    "price": 1503.59,
+    "timestamp": "2026-10-12T06:42:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000706",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 123,
+    "price": 1558.14,
+    "timestamp": "2026-10-06T01:33:00.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000707",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 871,
+    "price": 844.11,
+    "timestamp": "2026-10-02T22:56:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000708",
+    "client": "Client Beta",
+    "symbol": "TATAMOTORS",
+    "quantity": 666,
+    "price": 697.18,
+    "timestamp": "2026-10-06T06:40:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000709",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 334,
+    "price": 1437.47,
+    "timestamp": "2026-10-03T08:19:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000710",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 363,
+    "price": 876.86,
+    "timestamp": "2026-10-10T02:52:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000711",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 356,
+    "price": 871.85,
+    "timestamp": "2026-10-10T04:16:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000712",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 913,
+    "price": 820.91,
+    "timestamp": "2026-10-08T08:12:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000713",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 911,
+    "price": 1437.05,
+    "timestamp": "2026-10-10T01:38:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000714",
+    "client": "Client Gamma",
+    "symbol": "BHARTIARTL",
+    "quantity": 596,
+    "price": 1837.58,
+    "timestamp": "2026-10-03T19:11:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000715",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 317,
+    "price": 1931.94,
+    "timestamp": "2026-10-03T06:22:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000716",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 803,
+    "price": 810.48,
+    "timestamp": "2026-10-07T05:04:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000717",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 136,
+    "price": 814.13,
+    "timestamp": "2026-10-08T01:33:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000718",
+    "client": "Client Epsilon",
+    "symbol": "SBIN",
+    "quantity": 287,
+    "price": 846.21,
+    "timestamp": "2026-10-06T05:44:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000719",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 780,
+    "price": 1418.05,
+    "timestamp": "2026-10-12T01:49:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000720",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 749,
+    "price": 1421.75,
+    "timestamp": "2026-10-11T12:32:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000721",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 348,
+    "price": 430.67,
+    "timestamp": "2026-10-10T18:38:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000722",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 120,
+    "price": 1742.53,
+    "timestamp": "2026-10-03T03:23:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000723",
+    "client": "Client Epsilon",
+    "symbol": "INFY",
+    "quantity": 804,
+    "price": 1454.91,
+    "timestamp": "2026-10-12T11:31:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000724",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 223,
+    "price": 860.71,
+    "timestamp": "2026-10-09T17:51:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000725",
+    "client": "Client Beta",
+    "symbol": "ITC",
+    "quantity": 393,
+    "price": 446.29,
+    "timestamp": "2026-10-07T14:59:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000726",
+    "client": "Client Iota",
+    "symbol": "ICICIBANK",
+    "quantity": 446,
+    "price": 1220.4,
+    "timestamp": "2026-10-06T02:11:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000727",
+    "client": "Client Kappa",
+    "symbol": "LT",
+    "quantity": 201,
+    "price": 3651.32,
+    "timestamp": "2026-10-07T02:17:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000728",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 111,
+    "price": 3631.17,
+    "timestamp": "2026-10-11T18:51:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000729",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 879,
+    "price": 730.62,
+    "timestamp": "2026-10-06T19:24:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000730",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 269,
+    "price": 3286.08,
+    "timestamp": "2026-10-11T09:37:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000731",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 648,
+    "price": 1379.13,
+    "timestamp": "2026-10-09T13:35:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000732",
+    "client": "Client Theta",
+    "symbol": "RELIANCE",
+    "quantity": 195,
+    "price": 1488.21,
+    "timestamp": "2026-10-09T07:38:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000733",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 946,
+    "price": 1191.61,
+    "timestamp": "2026-10-01T17:37:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000734",
+    "client": "Client Beta",
+    "symbol": "TATAMOTORS",
+    "quantity": 483,
+    "price": 728.27,
+    "timestamp": "2026-10-01T21:17:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000735",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 414,
+    "price": 3663.68,
+    "timestamp": "2026-10-08T09:56:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000736",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 738,
+    "price": 1427.67,
+    "timestamp": "2026-10-06T23:10:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000737",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 519,
+    "price": 1455.5,
+    "timestamp": "2026-10-13T00:41:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000738",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 520,
+    "price": 1466.76,
+    "timestamp": "2026-10-01T16:13:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000739",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 132,
+    "price": 3101.12,
+    "timestamp": "2026-10-02T08:19:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000740",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 27,
+    "price": 1440.72,
+    "timestamp": "2026-10-13T07:03:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000741",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 417,
+    "price": 1930.84,
+    "timestamp": "2026-10-10T11:43:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000742",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 663,
+    "price": 1496.41,
+    "timestamp": "2026-10-11T13:10:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000743",
+    "client": "Client Gamma",
+    "symbol": "BHARTIARTL",
+    "quantity": 787,
+    "price": 1977.97,
+    "timestamp": "2026-10-07T11:51:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000744",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 177,
+    "price": 1499.08,
+    "timestamp": "2026-10-02T21:45:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000745",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 301,
+    "price": 1563.72,
+    "timestamp": "2026-10-13T00:24:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000746",
+    "client": "Client Eta",
+    "symbol": "TCS",
+    "quantity": 903,
+    "price": 3350.39,
+    "timestamp": "2026-10-06T19:04:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000747",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 176,
+    "price": 1765.41,
+    "timestamp": "2026-10-08T08:47:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000748",
+    "client": "Client Kappa",
+    "symbol": "ITC",
+    "quantity": 845,
+    "price": 459.86,
+    "timestamp": "2026-10-11T07:20:13.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000749",
+    "client": "Client Alpha",
+    "symbol": "TCS",
+    "quantity": 296,
+    "price": 3111.77,
+    "timestamp": "2026-10-05T08:46:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000750",
+    "client": "Client Epsilon",
+    "symbol": "BHARTIARTL",
+    "quantity": 573,
+    "price": 1904.62,
+    "timestamp": "2026-10-13T05:23:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000751",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 763,
+    "price": 1204.42,
+    "timestamp": "2026-10-08T00:14:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000752",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 31,
+    "price": 1454.87,
+    "timestamp": "2026-10-06T12:21:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000753",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 756,
+    "price": 807.9,
+    "timestamp": "2026-10-07T05:56:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000754",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 503,
+    "price": 1268.22,
+    "timestamp": "2026-10-09T14:29:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000755",
+    "client": "Client Gamma",
+    "symbol": "SBIN",
+    "quantity": 527,
+    "price": 888.04,
+    "timestamp": "2026-10-04T10:51:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000756",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 224,
+    "price": 1198.67,
+    "timestamp": "2026-10-02T14:22:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000757",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 506,
+    "price": 1497.8,
+    "timestamp": "2026-10-06T17:53:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000758",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 667,
+    "price": 1819.16,
+    "timestamp": "2026-10-05T08:50:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000759",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 567,
+    "price": 443.05,
+    "timestamp": "2026-10-03T13:23:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000760",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 603,
+    "price": 1505.11,
+    "timestamp": "2026-10-02T19:08:31.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000761",
+    "client": "Client Zeta",
+    "symbol": "BHARTIARTL",
+    "quantity": 396,
+    "price": 1885.92,
+    "timestamp": "2026-10-04T22:13:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000762",
+    "client": "Client Beta",
+    "symbol": "ITC",
+    "quantity": 250,
+    "price": 439.66,
+    "timestamp": "2026-10-11T00:50:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000763",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 535,
+    "price": 842.4,
+    "timestamp": "2026-10-02T16:16:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000764",
+    "client": "Client Eta",
+    "symbol": "TATAMOTORS",
+    "quantity": 377,
+    "price": 667.72,
+    "timestamp": "2026-10-02T11:10:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000765",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 929,
+    "price": 811.44,
+    "timestamp": "2026-10-13T05:49:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000766",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 952,
+    "price": 1881.28,
+    "timestamp": "2026-10-11T06:35:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000767",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 976,
+    "price": 1709.41,
+    "timestamp": "2026-10-04T12:06:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000768",
+    "client": "Client Epsilon",
+    "symbol": "HDFCBANK",
+    "quantity": 740,
+    "price": 1743.1,
+    "timestamp": "2026-10-12T10:17:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000769",
+    "client": "Client Zeta",
+    "symbol": "TCS",
+    "quantity": 881,
+    "price": 3156.27,
+    "timestamp": "2026-10-11T23:21:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000770",
+    "client": "Client Iota",
+    "symbol": "RELIANCE",
+    "quantity": 579,
+    "price": 1462.28,
+    "timestamp": "2026-10-06T16:52:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000771",
+    "client": "Client Beta",
+    "symbol": "TATAMOTORS",
+    "quantity": 217,
+    "price": 683.34,
+    "timestamp": "2026-10-07T20:53:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000772",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 323,
+    "price": 3475.46,
+    "timestamp": "2026-10-04T14:15:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000773",
+    "client": "Client Eta",
+    "symbol": "TCS",
+    "quantity": 131,
+    "price": 3290.07,
+    "timestamp": "2026-10-05T13:57:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000774",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 681,
+    "price": 1454.48,
+    "timestamp": "2026-10-06T23:00:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000775",
+    "client": "Client Alpha",
+    "symbol": "TCS",
+    "quantity": 18,
+    "price": 3209.71,
+    "timestamp": "2026-10-04T21:34:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000776",
+    "client": "Client Epsilon",
+    "symbol": "TATAMOTORS",
+    "quantity": 139,
+    "price": 688.39,
+    "timestamp": "2026-10-08T01:06:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000777",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 436,
+    "price": 3518.02,
+    "timestamp": "2026-10-03T05:52:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000778",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 622,
+    "price": 1568.46,
+    "timestamp": "2026-10-03T20:39:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000779",
+    "client": "Client Theta",
+    "symbol": "RELIANCE",
+    "quantity": 505,
+    "price": 1378.39,
+    "timestamp": "2026-10-05T04:01:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000780",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 489,
+    "price": 1985.56,
+    "timestamp": "2026-10-03T09:59:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000781",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 755,
+    "price": 1919.2,
+    "timestamp": "2026-10-08T02:36:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000782",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 424,
+    "price": 1731.29,
+    "timestamp": "2026-10-03T09:43:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000783",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 649,
+    "price": 452.8,
+    "timestamp": "2026-10-01T17:10:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000784",
+    "client": "Client Epsilon",
+    "symbol": "BHARTIARTL",
+    "quantity": 219,
+    "price": 1900.97,
+    "timestamp": "2026-10-12T18:52:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000785",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 318,
+    "price": 810.36,
+    "timestamp": "2026-10-02T09:50:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000786",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 917,
+    "price": 1510.8,
+    "timestamp": "2026-10-06T22:31:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000787",
+    "client": "Client Alpha",
+    "symbol": "ITC",
+    "quantity": 307,
+    "price": 427.85,
+    "timestamp": "2026-10-11T10:08:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000788",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 836,
+    "price": 1809.41,
+    "timestamp": "2026-10-01T14:11:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000789",
+    "client": "Client Iota",
+    "symbol": "TATAMOTORS",
+    "quantity": 546,
+    "price": 734.87,
+    "timestamp": "2026-10-11T22:01:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000790",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 282,
+    "price": 1279.47,
+    "timestamp": "2026-10-02T04:25:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000791",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 49,
+    "price": 446.35,
+    "timestamp": "2026-10-10T14:10:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000792",
+    "client": "Client Gamma",
+    "symbol": "BHARTIARTL",
+    "quantity": 101,
+    "price": 1934.75,
+    "timestamp": "2026-10-04T07:05:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000793",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 409,
+    "price": 1203.21,
+    "timestamp": "2026-10-10T22:43:58.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000794",
+    "client": "Client Theta",
+    "symbol": "RELIANCE",
+    "quantity": 550,
+    "price": 1414.64,
+    "timestamp": "2026-10-12T12:37:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000795",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 524,
+    "price": 825.68,
+    "timestamp": "2026-10-03T07:29:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000796",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 536,
+    "price": 1293.6,
+    "timestamp": "2026-10-12T01:22:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000797",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 508,
+    "price": 3595.2,
+    "timestamp": "2026-10-05T00:17:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000798",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 489,
+    "price": 1990.46,
+    "timestamp": "2026-10-13T01:56:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000799",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 881,
+    "price": 1210.11,
+    "timestamp": "2026-10-01T19:37:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000800",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 506,
+    "price": 1192.98,
+    "timestamp": "2026-10-06T11:19:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000801",
+    "client": "Client Theta",
+    "symbol": "TCS",
+    "quantity": 856,
+    "price": 3258.79,
+    "timestamp": "2026-10-04T16:41:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000802",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 998,
+    "price": 3082.6,
+    "timestamp": "2026-10-09T09:26:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000803",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 104,
+    "price": 3339.79,
+    "timestamp": "2026-10-07T14:26:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000804",
+    "client": "Client Epsilon",
+    "symbol": "INFY",
+    "quantity": 326,
+    "price": 1511.51,
+    "timestamp": "2026-10-09T16:17:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000805",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 155,
+    "price": 463.32,
+    "timestamp": "2026-10-08T03:20:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000806",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 91,
+    "price": 688.65,
+    "timestamp": "2026-10-06T16:54:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000807",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 528,
+    "price": 1940.95,
+    "timestamp": "2026-10-06T10:40:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000808",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 883,
+    "price": 3434.06,
+    "timestamp": "2026-10-08T02:29:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000809",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 758,
+    "price": 1195.61,
+    "timestamp": "2026-10-09T01:02:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000810",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 410,
+    "price": 1692.31,
+    "timestamp": "2026-10-06T00:53:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000811",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 694,
+    "price": 3280.4,
+    "timestamp": "2026-10-07T06:07:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000812",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 986,
+    "price": 3528.29,
+    "timestamp": "2026-10-06T08:37:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000813",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 553,
+    "price": 1527.76,
+    "timestamp": "2026-10-06T01:42:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000814",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 974,
+    "price": 1513.9,
+    "timestamp": "2026-10-10T04:54:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000815",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 847,
+    "price": 1551.88,
+    "timestamp": "2026-10-11T07:03:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000816",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 703,
+    "price": 3321.73,
+    "timestamp": "2026-10-03T16:41:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000817",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 207,
+    "price": 3707.71,
+    "timestamp": "2026-10-13T09:03:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000818",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 9,
+    "price": 1276.2,
+    "timestamp": "2026-10-10T11:10:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000819",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 340,
+    "price": 696.87,
+    "timestamp": "2026-10-02T11:55:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000820",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 97,
+    "price": 1963.01,
+    "timestamp": "2026-10-01T16:58:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000821",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 286,
+    "price": 1310.73,
+    "timestamp": "2026-10-03T15:25:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000822",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 641,
+    "price": 3771.95,
+    "timestamp": "2026-10-03T18:56:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000823",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 37,
+    "price": 1690.83,
+    "timestamp": "2026-10-09T17:06:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000824",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 645,
+    "price": 1520.64,
+    "timestamp": "2026-10-02T16:28:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000825",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 855,
+    "price": 1471.22,
+    "timestamp": "2026-10-10T18:33:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000826",
+    "client": "Client Gamma",
+    "symbol": "TCS",
+    "quantity": 72,
+    "price": 3144.59,
+    "timestamp": "2026-10-04T18:56:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000827",
+    "client": "Client Epsilon",
+    "symbol": "TATAMOTORS",
+    "quantity": 111,
+    "price": 715.72,
+    "timestamp": "2026-10-03T13:42:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000828",
+    "client": "Client Delta",
+    "symbol": "BHARTIARTL",
+    "quantity": 379,
+    "price": 1954.13,
+    "timestamp": "2026-10-05T15:15:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000829",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 798,
+    "price": 1457.85,
+    "timestamp": "2026-10-02T15:12:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000830",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 926,
+    "price": 453.26,
+    "timestamp": "2026-10-06T13:48:33.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000831",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 223,
+    "price": 669.57,
+    "timestamp": "2026-10-05T02:11:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000832",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 74,
+    "price": 858.66,
+    "timestamp": "2026-10-01T20:08:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000833",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 536,
+    "price": 716.53,
+    "timestamp": "2026-10-12T16:55:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000834",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 388,
+    "price": 698.39,
+    "timestamp": "2026-10-11T02:58:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000835",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 300,
+    "price": 3134.98,
+    "timestamp": "2026-10-10T04:37:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000836",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 226,
+    "price": 882.25,
+    "timestamp": "2026-10-11T12:41:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000837",
+    "client": "Client Gamma",
+    "symbol": "LT",
+    "quantity": 145,
+    "price": 3548.53,
+    "timestamp": "2026-10-08T00:52:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000838",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 53,
+    "price": 860.55,
+    "timestamp": "2026-10-03T14:04:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000839",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 877,
+    "price": 1834.08,
+    "timestamp": "2026-10-10T20:01:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000840",
+    "client": "Client Theta",
+    "symbol": "BHARTIARTL",
+    "quantity": 89,
+    "price": 1857.61,
+    "timestamp": "2026-10-10T15:36:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000841",
+    "client": "Client Alpha",
+    "symbol": "TCS",
+    "quantity": 560,
+    "price": 3284.86,
+    "timestamp": "2026-10-10T11:05:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000842",
+    "client": "Client Epsilon",
+    "symbol": "ITC",
+    "quantity": 490,
+    "price": 441.54,
+    "timestamp": "2026-10-02T04:15:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000843",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 420,
+    "price": 1459.83,
+    "timestamp": "2026-10-12T10:32:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000844",
+    "client": "Client Kappa",
+    "symbol": "LT",
+    "quantity": 379,
+    "price": 3709.72,
+    "timestamp": "2026-10-09T19:09:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000845",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 360,
+    "price": 3499.38,
+    "timestamp": "2026-10-10T01:31:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000846",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 431,
+    "price": 1927.68,
+    "timestamp": "2026-10-03T12:13:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000847",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 76,
+    "price": 1566.91,
+    "timestamp": "2026-10-03T01:48:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000848",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 620,
+    "price": 3523.2,
+    "timestamp": "2026-10-11T06:31:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000849",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 774,
+    "price": 1244.97,
+    "timestamp": "2026-10-05T13:28:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000850",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 40,
+    "price": 1826.3,
+    "timestamp": "2026-10-09T04:11:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000851",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 811,
+    "price": 433.8,
+    "timestamp": "2026-10-01T17:34:50.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000852",
+    "client": "Client Iota",
+    "symbol": "TCS",
+    "quantity": 335,
+    "price": 3280.56,
+    "timestamp": "2026-10-12T00:22:15.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000853",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 788,
+    "price": 1487.68,
+    "timestamp": "2026-10-01T18:37:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000854",
+    "client": "Client Zeta",
+    "symbol": "TCS",
+    "quantity": 5,
+    "price": 3165.16,
+    "timestamp": "2026-10-10T23:11:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000855",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 493,
+    "price": 1254.86,
+    "timestamp": "2026-10-04T23:41:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000856",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 530,
+    "price": 675.12,
+    "timestamp": "2026-10-09T11:06:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000857",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 827,
+    "price": 3541.29,
+    "timestamp": "2026-10-05T22:04:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000858",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 101,
+    "price": 1307.13,
+    "timestamp": "2026-10-07T23:39:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000859",
+    "client": "Client Epsilon",
+    "symbol": "TATAMOTORS",
+    "quantity": 451,
+    "price": 722.78,
+    "timestamp": "2026-10-10T01:42:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000860",
+    "client": "Client Eta",
+    "symbol": "ICICIBANK",
+    "quantity": 584,
+    "price": 1289.53,
+    "timestamp": "2026-10-09T15:57:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000861",
+    "client": "Client Epsilon",
+    "symbol": "SBIN",
+    "quantity": 985,
+    "price": 822.03,
+    "timestamp": "2026-10-11T05:38:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000862",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 719,
+    "price": 695.54,
+    "timestamp": "2026-10-07T11:06:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000863",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 42,
+    "price": 3431.9,
+    "timestamp": "2026-10-06T17:49:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000864",
+    "client": "Client Epsilon",
+    "symbol": "INFY",
+    "quantity": 769,
+    "price": 1433.13,
+    "timestamp": "2026-10-07T02:15:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000865",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 793,
+    "price": 863.3,
+    "timestamp": "2026-10-11T14:08:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000866",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 477,
+    "price": 3698.44,
+    "timestamp": "2026-10-06T06:09:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000867",
+    "client": "Client Beta",
+    "symbol": "INFY",
+    "quantity": 46,
+    "price": 1504.82,
+    "timestamp": "2026-10-02T23:44:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000868",
+    "client": "Client Gamma",
+    "symbol": "BHARTIARTL",
+    "quantity": 964,
+    "price": 1834.92,
+    "timestamp": "2026-10-11T11:15:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000869",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 171,
+    "price": 3218.59,
+    "timestamp": "2026-10-02T19:33:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000870",
+    "client": "Client Alpha",
+    "symbol": "TCS",
+    "quantity": 170,
+    "price": 3225.37,
+    "timestamp": "2026-10-11T07:09:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000871",
+    "client": "Client Iota",
+    "symbol": "HDFCBANK",
+    "quantity": 936,
+    "price": 1831.59,
+    "timestamp": "2026-10-02T00:27:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000872",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 722,
+    "price": 3473.33,
+    "timestamp": "2026-10-10T16:15:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000873",
+    "client": "Client Gamma",
+    "symbol": "TATAMOTORS",
+    "quantity": 231,
+    "price": 718.8,
+    "timestamp": "2026-10-08T20:12:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000874",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 875,
+    "price": 1439.3,
+    "timestamp": "2026-10-09T08:16:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000875",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 473,
+    "price": 429.1,
+    "timestamp": "2026-10-04T00:16:02.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000876",
+    "client": "Client Kappa",
+    "symbol": "SBIN",
+    "quantity": 42,
+    "price": 834.27,
+    "timestamp": "2026-10-12T04:33:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000877",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 697,
+    "price": 1486.69,
+    "timestamp": "2026-10-11T08:37:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000878",
+    "client": "Client Gamma",
+    "symbol": "HDFCBANK",
+    "quantity": 662,
+    "price": 1709.71,
+    "timestamp": "2026-10-10T16:08:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000879",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 691,
+    "price": 1695.5,
+    "timestamp": "2026-10-08T18:52:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000880",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 138,
+    "price": 1420.01,
+    "timestamp": "2026-10-13T01:16:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000881",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 49,
+    "price": 3279.88,
+    "timestamp": "2026-10-12T13:00:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000882",
+    "client": "Client Beta",
+    "symbol": "TATAMOTORS",
+    "quantity": 427,
+    "price": 687.67,
+    "timestamp": "2026-10-01T22:26:14.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000883",
+    "client": "Client Eta",
+    "symbol": "SBIN",
+    "quantity": 796,
+    "price": 891.36,
+    "timestamp": "2026-10-08T09:07:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000884",
+    "client": "Client Zeta",
+    "symbol": "INFY",
+    "quantity": 404,
+    "price": 1530.78,
+    "timestamp": "2026-10-12T04:22:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000885",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 378,
+    "price": 1493.37,
+    "timestamp": "2026-10-10T10:34:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000886",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 292,
+    "price": 3566.95,
+    "timestamp": "2026-10-07T05:42:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000887",
+    "client": "Client Iota",
+    "symbol": "TATAMOTORS",
+    "quantity": 40,
+    "price": 727.79,
+    "timestamp": "2026-10-12T10:51:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000888",
+    "client": "Client Beta",
+    "symbol": "BHARTIARTL",
+    "quantity": 748,
+    "price": 1860.7,
+    "timestamp": "2026-10-07T11:34:10.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000889",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 861,
+    "price": 1880.32,
+    "timestamp": "2026-10-04T00:14:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000890",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 21,
+    "price": 1261.92,
+    "timestamp": "2026-10-06T18:07:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000891",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 499,
+    "price": 1546.46,
+    "timestamp": "2026-10-04T14:44:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000892",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 889,
+    "price": 1453.51,
+    "timestamp": "2026-10-10T05:32:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000893",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 269,
+    "price": 1293.24,
+    "timestamp": "2026-10-10T00:00:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000894",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 360,
+    "price": 1804.73,
+    "timestamp": "2026-10-05T05:38:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000895",
+    "client": "Client Eta",
+    "symbol": "LT",
+    "quantity": 318,
+    "price": 3727.67,
+    "timestamp": "2026-10-11T14:48:44.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000896",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 195,
+    "price": 1222.82,
+    "timestamp": "2026-10-01T23:22:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000897",
+    "client": "Client Beta",
+    "symbol": "HDFCBANK",
+    "quantity": 341,
+    "price": 1733.11,
+    "timestamp": "2026-10-02T07:12:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000898",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 927,
+    "price": 1426.65,
+    "timestamp": "2026-10-05T22:50:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000899",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 796,
+    "price": 1664.67,
+    "timestamp": "2026-10-11T14:45:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000900",
+    "client": "Client Epsilon",
+    "symbol": "ITC",
+    "quantity": 548,
+    "price": 453.44,
+    "timestamp": "2026-10-08T06:30:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000901",
+    "client": "Client Delta",
+    "symbol": "SBIN",
+    "quantity": 307,
+    "price": 841.93,
+    "timestamp": "2026-10-11T22:38:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000902",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 457,
+    "price": 1891.1,
+    "timestamp": "2026-10-04T02:27:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000903",
+    "client": "Client Iota",
+    "symbol": "TATAMOTORS",
+    "quantity": 519,
+    "price": 719.04,
+    "timestamp": "2026-10-06T10:20:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000904",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 177,
+    "price": 3096.07,
+    "timestamp": "2026-10-12T15:23:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000905",
+    "client": "Client Delta",
+    "symbol": "ICICIBANK",
+    "quantity": 926,
+    "price": 1312.17,
+    "timestamp": "2026-10-10T03:29:17.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000906",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 815,
+    "price": 1522.36,
+    "timestamp": "2026-10-03T19:30:55.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000907",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 974,
+    "price": 1556.24,
+    "timestamp": "2026-10-03T22:20:45.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000908",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 200,
+    "price": 1218.2,
+    "timestamp": "2026-10-10T21:22:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000909",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 87,
+    "price": 3640.85,
+    "timestamp": "2026-10-09T05:23:05.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000910",
+    "client": "Client Epsilon",
+    "symbol": "TCS",
+    "quantity": 290,
+    "price": 3330.13,
+    "timestamp": "2026-10-05T16:20:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000911",
+    "client": "Client Kappa",
+    "symbol": "BHARTIARTL",
+    "quantity": 734,
+    "price": 1820.18,
+    "timestamp": "2026-10-12T12:00:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000912",
+    "client": "Client Eta",
+    "symbol": "HDFCBANK",
+    "quantity": 77,
+    "price": 1808.5,
+    "timestamp": "2026-10-11T17:55:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000913",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 200,
+    "price": 725.73,
+    "timestamp": "2026-10-11T14:00:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000914",
+    "client": "Client Theta",
+    "symbol": "ITC",
+    "quantity": 406,
+    "price": 463.64,
+    "timestamp": "2026-10-12T10:48:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000915",
+    "client": "Client Delta",
+    "symbol": "INFY",
+    "quantity": 892,
+    "price": 1513.82,
+    "timestamp": "2026-10-10T02:12:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000916",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 235,
+    "price": 3301.93,
+    "timestamp": "2026-10-11T16:07:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000917",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 99,
+    "price": 3273.76,
+    "timestamp": "2026-10-08T12:32:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000918",
+    "client": "Client Eta",
+    "symbol": "ITC",
+    "quantity": 107,
+    "price": 434.12,
+    "timestamp": "2026-10-07T08:03:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000919",
+    "client": "Client Eta",
+    "symbol": "SBIN",
+    "quantity": 513,
+    "price": 888.66,
+    "timestamp": "2026-10-11T01:03:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000920",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 277,
+    "price": 463.61,
+    "timestamp": "2026-10-05T18:51:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000921",
+    "client": "Client Kappa",
+    "symbol": "RELIANCE",
+    "quantity": 108,
+    "price": 1427.87,
+    "timestamp": "2026-10-09T22:28:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000922",
+    "client": "Client Alpha",
+    "symbol": "HDFCBANK",
+    "quantity": 509,
+    "price": 1767.94,
+    "timestamp": "2026-10-09T17:30:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000923",
+    "client": "Client Gamma",
+    "symbol": "RELIANCE",
+    "quantity": 518,
+    "price": 1434.14,
+    "timestamp": "2026-10-10T06:12:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000924",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 552,
+    "price": 3704.14,
+    "timestamp": "2026-10-04T03:56:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000925",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 733,
+    "price": 1494.68,
+    "timestamp": "2026-10-11T15:02:11.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000926",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 955,
+    "price": 809.96,
+    "timestamp": "2026-10-09T19:09:21.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000927",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 320,
+    "price": 3684.78,
+    "timestamp": "2026-10-09T21:33:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000928",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 513,
+    "price": 1201.42,
+    "timestamp": "2026-10-12T13:58:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000929",
+    "client": "Client Alpha",
+    "symbol": "TATAMOTORS",
+    "quantity": 489,
+    "price": 715.06,
+    "timestamp": "2026-10-06T13:38:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000930",
+    "client": "Client Theta",
+    "symbol": "TATAMOTORS",
+    "quantity": 285,
+    "price": 717.53,
+    "timestamp": "2026-10-13T05:19:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000931",
+    "client": "Client Kappa",
+    "symbol": "TCS",
+    "quantity": 855,
+    "price": 3225.06,
+    "timestamp": "2026-10-06T23:40:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000932",
+    "client": "Client Iota",
+    "symbol": "ITC",
+    "quantity": 197,
+    "price": 463.41,
+    "timestamp": "2026-10-04T13:13:07.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000933",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 710,
+    "price": 1700.35,
+    "timestamp": "2026-10-06T14:36:42.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000934",
+    "client": "Client Iota",
+    "symbol": "BHARTIARTL",
+    "quantity": 874,
+    "price": 1811.75,
+    "timestamp": "2026-10-06T13:21:36.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000935",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 192,
+    "price": 3481.19,
+    "timestamp": "2026-10-07T08:41:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000936",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 607,
+    "price": 1399.81,
+    "timestamp": "2026-10-02T02:40:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000937",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 322,
+    "price": 1476.06,
+    "timestamp": "2026-10-06T00:10:38.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000938",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 621,
+    "price": 1218.42,
+    "timestamp": "2026-10-10T00:57:24.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000939",
+    "client": "Client Delta",
+    "symbol": "INFY",
+    "quantity": 27,
+    "price": 1502.77,
+    "timestamp": "2026-10-08T08:03:06.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000940",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 809,
+    "price": 3229.97,
+    "timestamp": "2026-10-11T11:45:30.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000941",
+    "client": "Client Gamma",
+    "symbol": "INFY",
+    "quantity": 222,
+    "price": 1529.48,
+    "timestamp": "2026-10-01T19:10:48.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000942",
+    "client": "Client Zeta",
+    "symbol": "ICICIBANK",
+    "quantity": 53,
+    "price": 1275.99,
+    "timestamp": "2026-10-06T11:45:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000943",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 825,
+    "price": 1991.54,
+    "timestamp": "2026-10-09T14:24:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000944",
+    "client": "Client Epsilon",
+    "symbol": "TATAMOTORS",
+    "quantity": 939,
+    "price": 713.95,
+    "timestamp": "2026-10-07T06:53:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000945",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 695,
+    "price": 704.34,
+    "timestamp": "2026-10-05T21:03:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000946",
+    "client": "Client Theta",
+    "symbol": "LT",
+    "quantity": 969,
+    "price": 3760.84,
+    "timestamp": "2026-10-06T04:28:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000947",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 21,
+    "price": 1380.17,
+    "timestamp": "2026-10-05T19:33:57.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000948",
+    "client": "Client Kappa",
+    "symbol": "HDFCBANK",
+    "quantity": 381,
+    "price": 1688.88,
+    "timestamp": "2026-10-07T19:40:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000949",
+    "client": "Client Eta",
+    "symbol": "INFY",
+    "quantity": 933,
+    "price": 1493.25,
+    "timestamp": "2026-10-03T04:40:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000950",
+    "client": "Client Beta",
+    "symbol": "LT",
+    "quantity": 620,
+    "price": 3451.76,
+    "timestamp": "2026-10-10T03:16:37.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000951",
+    "client": "Client Beta",
+    "symbol": "ITC",
+    "quantity": 782,
+    "price": 470.42,
+    "timestamp": "2026-10-04T03:42:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000952",
+    "client": "Client Alpha",
+    "symbol": "ICICIBANK",
+    "quantity": 844,
+    "price": 1208.72,
+    "timestamp": "2026-10-04T01:23:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000953",
+    "client": "Client Alpha",
+    "symbol": "INFY",
+    "quantity": 609,
+    "price": 1574.92,
+    "timestamp": "2026-10-03T19:45:04.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000954",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 418,
+    "price": 699.59,
+    "timestamp": "2026-10-13T08:53:03.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000955",
+    "client": "Client Delta",
+    "symbol": "ITC",
+    "quantity": 123,
+    "price": 447.58,
+    "timestamp": "2026-10-02T22:56:49.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000956",
+    "client": "Client Eta",
+    "symbol": "TATAMOTORS",
+    "quantity": 810,
+    "price": 728.59,
+    "timestamp": "2026-10-11T18:03:01.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000957",
+    "client": "Client Gamma",
+    "symbol": "ICICIBANK",
+    "quantity": 275,
+    "price": 1194.71,
+    "timestamp": "2026-10-02T12:32:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000958",
+    "client": "Client Iota",
+    "symbol": "LT",
+    "quantity": 659,
+    "price": 3430.94,
+    "timestamp": "2026-10-12T17:46:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000959",
+    "client": "Client Epsilon",
+    "symbol": "RELIANCE",
+    "quantity": 59,
+    "price": 1517.73,
+    "timestamp": "2026-10-10T07:52:51.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000960",
+    "client": "Client Theta",
+    "symbol": "HDFCBANK",
+    "quantity": 697,
+    "price": 1665.54,
+    "timestamp": "2026-10-06T09:18:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000961",
+    "client": "Client Zeta",
+    "symbol": "LT",
+    "quantity": 15,
+    "price": 3734.19,
+    "timestamp": "2026-10-05T00:55:32.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000962",
+    "client": "Client Iota",
+    "symbol": "SBIN",
+    "quantity": 29,
+    "price": 851.35,
+    "timestamp": "2026-10-10T16:58:29.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000963",
+    "client": "Client Eta",
+    "symbol": "RELIANCE",
+    "quantity": 907,
+    "price": 1498.49,
+    "timestamp": "2026-10-11T00:42:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000964",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 612,
+    "price": 869.23,
+    "timestamp": "2026-10-04T06:34:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000965",
+    "client": "Client Theta",
+    "symbol": "SBIN",
+    "quantity": 457,
+    "price": 846.05,
+    "timestamp": "2026-10-05T01:15:47.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000966",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 699,
+    "price": 1472.93,
+    "timestamp": "2026-10-04T03:32:22.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000967",
+    "client": "Client Iota",
+    "symbol": "SBIN",
+    "quantity": 192,
+    "price": 870.78,
+    "timestamp": "2026-10-04T01:21:59.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000968",
+    "client": "Client Kappa",
+    "symbol": "ITC",
+    "quantity": 540,
+    "price": 463.97,
+    "timestamp": "2026-10-01T19:19:18.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000969",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 924,
+    "price": 3423.11,
+    "timestamp": "2026-10-01T21:42:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000970",
+    "client": "Client Eta",
+    "symbol": "BHARTIARTL",
+    "quantity": 488,
+    "price": 1947.67,
+    "timestamp": "2026-10-09T13:07:23.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000971",
+    "client": "Client Alpha",
+    "symbol": "LT",
+    "quantity": 347,
+    "price": 3519.92,
+    "timestamp": "2026-10-01T16:07:19.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000972",
+    "client": "Client Epsilon",
+    "symbol": "RELIANCE",
+    "quantity": 306,
+    "price": 1517.97,
+    "timestamp": "2026-10-05T11:53:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000973",
+    "client": "Client Eta",
+    "symbol": "SBIN",
+    "quantity": 309,
+    "price": 874.69,
+    "timestamp": "2026-10-03T13:44:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000974",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 948,
+    "price": 1396.48,
+    "timestamp": "2026-10-09T20:34:41.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000975",
+    "client": "Client Epsilon",
+    "symbol": "LT",
+    "quantity": 241,
+    "price": 3546.82,
+    "timestamp": "2026-10-09T14:20:46.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000976",
+    "client": "Client Zeta",
+    "symbol": "RELIANCE",
+    "quantity": 508,
+    "price": 1507.58,
+    "timestamp": "2026-10-02T16:10:27.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000977",
+    "client": "Client Epsilon",
+    "symbol": "ITC",
+    "quantity": 138,
+    "price": 438.12,
+    "timestamp": "2026-10-07T08:34:12.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000978",
+    "client": "Client Epsilon",
+    "symbol": "BHARTIARTL",
+    "quantity": 715,
+    "price": 1983.91,
+    "timestamp": "2026-10-12T15:29:31.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000979",
+    "client": "Client Gamma",
+    "symbol": "ITC",
+    "quantity": 275,
+    "price": 440.58,
+    "timestamp": "2026-10-12T18:12:43.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000980",
+    "client": "Client Theta",
+    "symbol": "ICICIBANK",
+    "quantity": 131,
+    "price": 1278.72,
+    "timestamp": "2026-10-03T10:15:34.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000981",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 887,
+    "price": 1461.09,
+    "timestamp": "2026-10-08T03:04:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000982",
+    "client": "Client Zeta",
+    "symbol": "ITC",
+    "quantity": 52,
+    "price": 433.69,
+    "timestamp": "2026-10-08T14:25:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000983",
+    "client": "Client Eta",
+    "symbol": "RELIANCE",
+    "quantity": 911,
+    "price": 1477.91,
+    "timestamp": "2026-10-11T08:11:39.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000984",
+    "client": "Client Iota",
+    "symbol": "INFY",
+    "quantity": 109,
+    "price": 1438.43,
+    "timestamp": "2026-10-12T19:09:53.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000985",
+    "client": "Client Beta",
+    "symbol": "RELIANCE",
+    "quantity": 869,
+    "price": 1484.85,
+    "timestamp": "2026-10-11T20:28:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000986",
+    "client": "Client Delta",
+    "symbol": "LT",
+    "quantity": 811,
+    "price": 3485.75,
+    "timestamp": "2026-10-05T22:49:09.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000987",
+    "client": "Client Theta",
+    "symbol": "INFY",
+    "quantity": 70,
+    "price": 1501.02,
+    "timestamp": "2026-10-08T04:13:20.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000988",
+    "client": "Client Epsilon",
+    "symbol": "ITC",
+    "quantity": 179,
+    "price": 439.58,
+    "timestamp": "2026-10-07T00:40:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000989",
+    "client": "Client Zeta",
+    "symbol": "SBIN",
+    "quantity": 706,
+    "price": 874.77,
+    "timestamp": "2026-10-06T22:39:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000990",
+    "client": "Client Alpha",
+    "symbol": "BHARTIARTL",
+    "quantity": 248,
+    "price": 1848.22,
+    "timestamp": "2026-10-12T20:21:16.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000991",
+    "client": "Client Beta",
+    "symbol": "ICICIBANK",
+    "quantity": 832,
+    "price": 1200.12,
+    "timestamp": "2026-10-04T11:27:26.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000992",
+    "client": "Client Alpha",
+    "symbol": "SBIN",
+    "quantity": 623,
+    "price": 879.45,
+    "timestamp": "2026-10-10T21:59:52.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000993",
+    "client": "Client Beta",
+    "symbol": "TCS",
+    "quantity": 963,
+    "price": 3308.28,
+    "timestamp": "2026-10-09T18:11:56.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000994",
+    "client": "Client Zeta",
+    "symbol": "TATAMOTORS",
+    "quantity": 832,
+    "price": 699.14,
+    "timestamp": "2026-10-06T13:12:54.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000995",
+    "client": "Client Delta",
+    "symbol": "HDFCBANK",
+    "quantity": 852,
+    "price": 1720.04,
+    "timestamp": "2026-10-03T15:57:28.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000996",
+    "client": "Client Theta",
+    "symbol": "ITC",
+    "quantity": 689,
+    "price": 431.17,
+    "timestamp": "2026-10-03T05:21:35.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000997",
+    "client": "Client Delta",
+    "symbol": "TCS",
+    "quantity": 365,
+    "price": 3059.75,
+    "timestamp": "2026-10-07T03:31:08.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000998",
+    "client": "Client Delta",
+    "symbol": "RELIANCE",
+    "quantity": 827,
+    "price": 1443.9,
+    "timestamp": "2026-10-12T13:59:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-000999",
+    "client": "Client Alpha",
+    "symbol": "RELIANCE",
+    "quantity": 667,
+    "price": 1498.55,
+    "timestamp": "2026-10-06T09:11:25.000Z"
+  },
+  {
+    "tradeId": "MOCK-TRD-001000",
+    "client": "Client Kappa",
+    "symbol": "ICICIBANK",
+    "quantity": 265,
+    "price": 1272.52,
+    "timestamp": "2026-10-08T12:00:38.000Z"
+  }
+]

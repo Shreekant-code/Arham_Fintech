@@ -1,0 +1,244 @@
+html,
+body,
+#root {
+  width: 100%;
+  max-width: 100%;
+}
+
+body {
+  min-width: 320px;
+  overflow-x: hidden;
+}
+
+.workspace-grid,
+.dashboard-main,
+.table-card,
+.right-column {
+  min-width: 0;
+}
+
+.table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-footer {
+  flex-wrap: wrap;
+}
+
+.pull-countdown {
+  margin-top: 10px;
+  padding: 9px 10px;
+  border: 1px solid #e0ebfa;
+  border-radius: 8px;
+  background: #f5f9ff;
+}
+
+.pull-countdown-copy {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  color: #657794;
+  font-size: 9px;
+}
+
+.pull-countdown-copy strong {
+  color: #1769e8;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
+.pull-progress {
+  height: 5px;
+  margin-top: 7px;
+  overflow: hidden;
+  border-radius: 99px;
+  background: #e2eaf5;
+}
+
+.pull-progress span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #36a2ff, #1769e8);
+  transition: width .8s linear;
+}
+
+.pull-queue-note {
+  margin-top: 9px;
+  color: #657794;
+  font-size: 9px;
+  line-height: 1.5;
+}
+
+@media (max-width: 760px) {
+  .topbar {
+    gap: 8px;
+  }
+
+  .connection {
+    max-width: 145px;
+    line-height: 1.35;
+  }
+
+  .pull-controls select,
+  .pull-button {
+    min-height: 44px;
+  }
+
+  .filter-box {
+    min-width: 42px;
+    min-height: 42px;
+  }
+
+  .pagination {
+    max-width: 100%;
+    overflow-x: auto;
+    padding-bottom: 2px;
+  }
+
+  .pagination button {
+    min-width: 36px;
+    min-height: 36px;
+  }
+
+  .table-footer > span {
+    line-height: 1.5;
+  }
+
+  .pull-item-title {
+    flex-wrap: wrap;
+  }
+
+  .pull-detail {
+    gap: 5px;
+  }
+}
+
+@media (max-width: 360px) {
+  .topbar {
+    padding: 8px;
+  }
+
+  .brand {
+    gap: 5px;
+    font-size: 14px;
+  }
+
+  .brand-mark {
+    width: 27px;
+    height: 27px;
+    flex-basis: 27px;
+  }
+
+  .brand-mark::before {
+    width: 23px;
+    height: 23px;
+    border-width: 3px;
+    font-size: 16px;
+  }
+
+  .brand strong {
+    font-size: 15px;
+  }
+
+  .brand-light {
+    font-size: 14px;
+  }
+
+  .brand small {
+    max-width: 145px;
+    font-size: 6px;
+  }
+
+  .topbar-info,
+  .connection {
+    max-width: 94px;
+  }
+
+  .connection {
+    font-size: 7px;
+  }
+
+  .page-content {
+    padding: 8px 6px;
+  }
+
+  .dashboard-hero {
+    min-height: 144px;
+  }
+
+  .hero-copy {
+    max-width: 86%;
+    padding: 10px;
+  }
+
+  .hero-copy h1 {
+    font-size: 18px;
+  }
+
+  .hero-copy h2 {
+    max-width: 205px;
+    font-size: 10px;
+  }
+
+  .hero-copy p {
+    max-width: 200px;
+    font-size: 7px;
+  }
+
+  .hero-art-placeholder {
+    left: 64%;
+    opacity: .55;
+  }
+
+  .market-badge {
+    padding: 4px 7px;
+    font-size: 8px;
+  }
+
+  .stat-card {
+    gap: 5px;
+    padding: 8px 5px;
+  }
+
+  .stat-icon {
+    width: 25px;
+    height: 25px;
+    flex-basis: 25px;
+    font-size: 12px;
+  }
+
+  .stat-label {
+    font-size: 8px;
+  }
+
+  .stat-value {
+    font-size: 14px;
+  }
+
+  .pull-card {
+    padding: 11px;
+  }
+
+  .pull-explanation {
+    margin-left: 0;
+  }
+
+  .table-heading,
+  .table-footer {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+@supports (-webkit-touch-callout: none) {
+  @media (max-width: 760px) {
+    .search-box input {
+      font-size: 16px;
+    }
+  }
+}
