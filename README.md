@@ -131,12 +131,4 @@ Returns `{ "status": "ok" }` when the backend is available.
 4. The worker waits for the selected delay, takes the next unique records from `mockExchangeTrades.json`, and inserts them into MongoDB.
 5. The worker sends an SSE event. The dashboard reloads its current results and summary automatically.
 
-The pull request returns before the worker's delay, so the 15-minute operation does not keep that HTTP request open. A 20-second heartbeat helps keep an idle SSE connection alive. `EventSource` reconnects and supplies `Last-Event-ID`, allowing replay of recent buffered events.
-
-## Assessment Notes and Limits
-
-The assessment calls for “a few thousand” seeded trades; this project currently seeds 1,000. Increase `Backend/data/trades.json` if the evaluator expects at least 2,000. The separate 1,500-record fixture remains dedicated to later pulls. The required video walkthrough must be recorded separately.
-
-The queue, fixture cursor, pull status, and 100-event SSE replay buffer are in memory. A backend restart clears them. The app is intended as a straightforward single-process assignment demo, not a durable multi-server job system. A pull fails if the fixture has fewer remaining records than the requested batch.
-
-See [the architecture note](docs/architecture.md) for the diagram and detailed structure. Keep MongoDB credentials in the ignored local `Backend/.env`; never commit secrets.
+T
