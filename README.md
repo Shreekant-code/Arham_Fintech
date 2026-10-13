@@ -119,10 +119,6 @@ curl -X POST http://localhost:3000/api/trades/pulls `
 
 SSE stream for `connected`, `pull`, and `trades` events. The latest 100 events are buffered in memory for reconnect replay.
 
-### `GET /api/health`
-
-Returns `{ "status": "ok" }` when the backend is available.
-
 ## Data Flow
 
 1. Run `npm run seed` to upsert the 1,000 initial records into MongoDB. Re-running the script does not duplicate trade IDs.
@@ -131,4 +127,4 @@ Returns `{ "status": "ok" }` when the backend is available.
 4. The worker waits for the selected delay, takes the next unique records from `mockExchangeTrades.json`, and inserts them into MongoDB.
 5. The worker sends an SSE event. The dashboard reloads its current results and summary automatically.
 
-T
+
